@@ -1,0 +1,172 @@
+﻿Title: Termine
+
+----
+
+Text: Hier findest du alle Termine der Liga-Sommerpause einmal übersichtlich aufgelistet. Trotz Liga-Pause ist einiges los - u.a. 2. Paderborner DYP-Tour (Einfach allein vorbeikommen - keine Voranmeldung - kein fester Partner) und jeden Dienstag offenes Training! Die Anmeldung für die Winter-Saison startet am 1. September auf unserer alten Seite...
+
+Unsere TFC Paderwahn-Mannschaften trainieren natürlich auch immer fleißig:
+Wer Interesse hat, uns über die Schulter zu schauen oder selbst vllt in Zukunft einzusteigen, kann gern Mittwochs von 18-20 Uhr oder Samstags von ca. 17-20 Uhr vorbeischauen. Ihr seid herzlich willkommen!
+
+----
+
+Events: 
+
+04.11.2013:
+    Title: 2. Ligaspieltag
+	Location: The Mad Hatter
+	Desc: ab 20:00 Uhr
+
+05.11.2013.:
+    Title: 2. Ligaspieltag
+	Location: Paderbowling & Patrizias Pinte
+	Desc: ab 19:00 Uhr & 20:00 Uhr
+
+05.11.2013:
+    Title: Neulingstraining
+	Location: Patrizias Pinte
+	Desc: ab 17:30 Uhr
+
+10.11.2013:
+    Title: TFC Paderwahn NRW-Spieltag
+	Location: Merkur Spielothek Werne und LLZ Bochum
+	Desc: ab 12:00 Uhr
+
+11.11.2013:
+        Title: Ligapokal 1/16-Finale
+	Location: The Mad Hatter
+	Desc: ab 20:00 Uhr
+
+12.11.2013.:
+        Title: Ligapokal 1/16-Finale
+	Location: Paderbowling & Patrizias Pinte
+	Desc: ab 19:00 & 20:00 Uhr
+
+12.11.2013:
+        Title: Offenes Training
+	Location: Patrizias Pinte
+	Desc: ab 17:30 Uhr
+
+18.11.2013:
+        Title: 3. Ligaspieltag
+	Location: The Mad Hatter
+	Desc: ab 20:00 Uhr
+
+19.11.2013.:
+        Title: 3. Ligaspieltag
+	Location: Paderbowling & Patrizias Pinte
+	Desc: ab 19:00 Uhr & 20:00 Uhr
+
+19.11.2013:
+        Title: Neulingstraining
+	Location: Patrizias Pinte
+	Desc: ab 17:30 Uhr
+
+23.11.2013:
+        Title: Stadtm. Wuppertal
+	Location: Wuppertal
+	Desc: ab 11:00 Uhr - mit Voranmeldung
+
+25.11.2013:
+        Title: 4. Ligaspieltag
+	Location: The Mad Hatter
+	Desc: ab 20:00 Uhr
+
+26.11.2013.:
+        Title: 4. Ligaspieltag
+	Location: Paderbowling & Patrizias Pinte
+	Desc: ab 19:00 Uhr & 20:00 Uhr
+
+26.11.2013:
+        Title: Offenes Training
+	Location: Patrizias Pinte
+	Desc: ab 17:30 Uhr
+
+02.12.2013:
+        Title: DYP-Turnier
+	Location: The Mad Hatter
+	Desc: ab 19:00 Uhr
+
+03.12.2013:
+        Title: Neulingstraining
+	Location: Patrizias Pinte
+	Desc: ab 17:30 Uhr
+
+03.12.2013.:
+        Title: Ligapokal 1/8-Finale
+	Location: Paderbowling & Patrizias Pinte
+	Desc: ab 19:00 Uhr & 20:00 Uhr
+
+07.12.2013:
+        Title: Stadtm. Münster
+	Location: Münster
+	Desc: ab 11:00 Uhr - mit Voranmeldung
+
+09.12.2013:
+        Title: 5. Ligaspieltag
+	Location: The Mad Hatter
+	Desc: ab 20:00 Uhr
+
+10.12.2013.:
+        Title: 5. Ligaspieltag
+	Location: Paderbowling & Patrizias Pinte
+	Desc: ab 19:00 Uhr & 20:00 Uhr
+
+10.12.2013:
+        Title: Offenes Training
+	Location: Patrizias Pinte
+	Desc: ab 17:30 Uhr
+
+16.12.2013:
+        Title: 6. Ligaspieltag
+	Location: The Mad Hatter
+	Desc: ab 20:00 Uhr
+
+17.12.2013.:
+        Title: 6. Ligaspieltag
+	Location: Paderbowling & Patrizias Pinte
+	Desc: ab 19:00 Uhr & 20:00 Uhr
+
+17.12.2013:
+        Title: Neulingstraining
+	Location: Patrizias Pinte
+	Desc: ab 17:30 Uhr
+
+19.12.2013:
+        Title: Weihnachtsfeier Kickerliga Paderborn
+	Location: Patrizias Pinte
+	Desc: ab 17:00 Uhr (ab 19:00 DYP für ca. 42 P.)
+
+07.01.2014:
+        Title: Offenes Training
+	Location: Patrizias Pinte
+	Desc: ab 17:30 Uhr
+
+13.01.2014:
+        Title: LigaCup (Platz 11-30)
+	Location: Paderbowling & Mad Hatter
+	Desc: beide ab 19:00 Uhr!!!
+
+14.01.2014:
+        Title: Neulingstraining
+	Location: Patrizias Pinte
+	Desc: ab 17:30 Uhr
+
+14.01.2014.:
+        Title: Ligapokal 1/4-, 1/2- & Finale
+	Location: Mad Hatter & Patrizias Pinte
+	Desc: ab 20:00 Uhr
+
+21.01.2014.:
+        Title: Meisterschaftsfinals & Saisonabschlussfeier
+	Location: Patrizias Pinte
+	Desc: ab 19:00 Uhr
+
+21.01.2014:
+        Title: Offenes Training
+	Location: Patrizias Pinte
+	Desc: ab 17:30 Uhr
+
+24.01.2014:
+        Title: MASTERS Turnier
+	Location: Gownsmen's Pub
+	Desc: 18:00 - Abschluss der Wintersaison - mit Anmeldung!

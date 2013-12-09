@@ -1,0 +1,13 @@
+﻿Title: Finale
+
+----
+
+Text: 
+
+----
+
+Matches: 1:
+	Location:Markandu-Leo Pro
+	Team1: Slider
+	Team2: Jet-Lags
+	Ergebnis:0:4

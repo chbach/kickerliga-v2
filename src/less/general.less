@@ -1,0 +1,136 @@
+html {
+	height: 100%;
+}
+
+body {
+	min-height: 100%;
+	box-sizing: border-box;
+	padding-bottom: 5em; // footer
+	position: relative;
+}
+
+
+body {
+	font-family: 'Open Sans', 'Helvetica Neue', 'Arial', sans-serif;
+	color: @font-color;
+}
+
+.chalk {
+	font-family: "PWChalk", "Open Sans", sans-serif;
+	text-transform: uppercase;
+}
+
+h1 {
+	font-size: 2.5em;
+	color: @dark-blue;
+	.chalk;
+}
+
+h2 {
+	font-size: 2em;
+	.chalk;
+	color: @purple;
+}
+
+h3 {
+	font-size: 1.25em;
+}
+
+h4 {
+	font-size: 1em;
+}
+
+p {
+	line-height: 1.5em;
+}
+
+.compact {
+	margin: 0 0 0.25em 0;
+}
+
+.green {
+	color: @green;
+}
+
+.blue {
+	color: @dark-blue;
+}
+
+.stripped-list {
+	list-style: none;
+	padding-left: 0;
+	margin-top: 0;
+}
+
+.cf:before,
+.cf:after {
+    content: " "; 
+    display: table;
+}
+
+.cf:after {
+    clear: both;
+}
+
+.centered {
+	max-width: 1008px; // 960 + 3em
+	margin: 0 auto;
+}
+
+.l-box {
+	box-sizing: border-box;
+	padding: 1em 1.5em;
+}
+
+// PURE MODS
+
+.pure-button {
+	border-radius: 0.25em;
+	font-weight: normal;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+	box-sizing: border-box;
+
+	&:hover {
+		background-image: linear-gradient(
+			fadeout(black, 95%) 100%, 
+			fadeout(black, 95%) 0%
+		)
+	}
+}
+
+.pure-button-bordered {
+	display:block;
+	background-color: transparent;
+	border: 1px solid lighten(@dark-blue, 20%);
+	color: @dark-blue;
+	transition: 200ms;
+
+	&:hover {
+		background: transparent;
+		border-color: lighten(@dark-blue, 30%);
+		color: lighten(@dark-blue, 10%);
+	}
+}
+
+.pure-button-green {
+	color: #fff;
+	background-color: @green;
+}
+
+.pure-button-block {
+	display: block;
+}
+
+.pure-button-primary, 
+.pure-button-selected, 
+a.pure-button-primary, 
+a.pure-button-selected {
+	background-color: lighten(@dark-blue, 20%);
+	color: #fff;
+}
+
+.pure-g-r [class*="pure-u"] {
+	font-family: 'Open Sans', sans-serif;
+}

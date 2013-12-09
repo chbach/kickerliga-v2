@@ -1,0 +1,78 @@
+﻿Title: 1/16 Finale
+
+----
+
+Text: Die ausführlichen Ergebnisse findet Ihr hier: (file:liga-pokal-ergebnisse-1-16.pdf text:Ergebnisse 1/16-Finale)
+
+----
+
+Matches: 1:
+	Location:Paderbowling-Leo Pro
+	Team1: DFB
+	Team2: Lüllich Karambula
+	Ergebnis:3:0
+2:
+	Location:Paderbowling-Leo Pro
+	Team1: Perpetual Jellyfishes
+	Team2: Team Sliders
+	Ergebnis:3:0
+3:
+	Location:Paderbowling-Leo Pro
+	Team1: Incredible Wursttech
+	Team2: Bunga Bunga
+	Ergebnis:3:0
+4:
+	Location:Markandu-Ullrich
+	Team1: Ragnarok n Roll
+	Team2: Dynamo Tresen
+	Ergebnis:3:0
+5:
+	Location:Markandu-Ullrich
+	Team1: JeT LaGs 
+	Team2: Twin Goal
+	Ergebnis:3:0
+6:
+	Location:Markandu-Ullrich
+	Team1: Achtung60er 
+	Team2: How Much is the Tisch
+	Ergebnis:2:1
+7:
+	Location:Markandu-Leo Pro
+	Team1: Die Blockwürste 
+	Team2: Tsubasa-Wakabayashi
+	Ergebnis:3:0
+8:
+	Location:Markandu-Leo Pro
+	Team1: Nicht lachen 
+	Team2: Markandu-Los Schlenzzos
+	Ergebnis:3:0
+9:
+	Location:Markandu-Leo Pro
+	Team1: Ginbuca 
+	Team2: Dies Das
+	Ergebnis:2:1
+10:
+	Location:Highlander-Leo Pro oben
+	Team1: Thor 2.0
+	Team2: BabyBarsch
+	Ergebnis:3:0
+11:
+	Location:Highlander-Leo Pro oben
+	Team1: Operation Fail
+	Team2: Balldrian
+	Ergebnis:3:0
+12:
+	Location:Highlander-Leo Pro oben
+	Team1: De Puppet Master
+	Team2: Team Handjob
+	Ergebnis:2:1
+13:
+	Location:Highlander-Leo Pro unten
+	Team1: Alpha & Omega
+	Team2: Paderkicker
+	Ergebnis:0:3
+14:
+	Location:Highlander-Leo Pro unten
+	Team1: Die Kicker der Kokosnuss
+	Team2: Natural Born Kickers
+	Ergebnis:0:3

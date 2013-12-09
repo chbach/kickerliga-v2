@@ -1,0 +1,23 @@
+sponsors:
+
+
+slider.png:
+	url: http://www.slider-theboardshop.de/
+cineplex.png:
+	url: http://www.cineplex.de/kino/home/city40/
+mlp.png: 
+	url: http://www.mlp-paderborn1.de/
+therme.png: 
+	url: http://www.westfalen-therme.de/
+patrizias.png: 
+	url: hhttp://www.patricias-pinte.de/
+highlander.png: 
+	url: http://www.facebook.com/highlander.paderborn
+paderbowling.png: 
+	url: http://www.paderbowling.de/
+tuba.png:
+	url: http://www.tuba-paderborn.de/
+runners-point.png:
+	url: http://www.runnerspoint.com/filialen/filial-detailseite/?StoreId=670"
+meyerbeer.png: 
+	url: http://www.meyerbeer.de
