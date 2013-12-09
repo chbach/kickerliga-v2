@@ -6,9 +6,11 @@
 
 ## Entwicklung
 
-* Grunt installieren um .less Files zu kompilieren <http://lesscss.org>
-* <http://gruntjs.com/>
-* In der Konsole/im Terminal ins Root des Repositorys wechselnund `grunt watch` ausführen.
+* Grunt installieren um .less Files aus `/src` zu kompilieren <http://lesscss.org>
+    * Node installieren <http://nodejs.org>
+    * <http://gruntjs.com/>
+    * `npm install` im Root des Repos ausführen (installiert in der Regel auch Grunt mit).
+* **Watch-Task ausführen**: In der Konsole/im Terminal ins Root des Repositorys wechseln und `grunt watch` ausführen.
 
 ----
 
