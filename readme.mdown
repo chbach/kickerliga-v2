@@ -1,3 +1,17 @@
+# Einrichtung
+
+* Repository auf Webserver schieben
+* .htaccess anpassen
+* Los gehts!
+
+## Entwicklung
+
+* Grunt installieren um .less Files zu kompilieren <http://lesscss.org>
+* <http://gruntjs.com/>
+* In der Konsole/im Terminal ins Root des Repositorys wechselnund `grunt watch` ausführen.
+
+----
+
 # Kirby
 
 Kirby is a file-based CMS.   
