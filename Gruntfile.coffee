@@ -18,7 +18,7 @@ module.exports = (grunt) ->
 				dest: '<%= tmpDir %>css/main.css',
 				options:
 					compile: true
-					compress: true
+					compress: false
 
 		autoprefixer:
 			single_file:
