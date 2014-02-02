@@ -1466,6 +1466,16 @@ a.pure-button-selected {
   font-family: 'Open Sans', sans-serif;
 }
 
+.pure-table {
+  width: 100%;
+}
+
+@media (max-width: 480px) {
+  .pure-table {
+    font-size: 75%;
+  }
+}
+
 /* ==============================
 	Navigation
 ============================== */
