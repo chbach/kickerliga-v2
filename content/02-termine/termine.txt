@@ -2,171 +2,181 @@
 
 ----
 
-Text: Hier findest du alle Termine der Liga-Sommerpause einmal übersichtlich aufgelistet. Trotz Liga-Pause ist einiges los - u.a. 2. Paderborner DYP-Tour (Einfach allein vorbeikommen - keine Voranmeldung - kein fester Partner) und jeden Dienstag offenes Training! Die Anmeldung für die Winter-Saison startet am 1. September auf unserer alten Seite...
+Text: Hier findest du alle wichtigen Termine der Kickerliga Paderborn einmal übersichtlich aufgelistet. Für alle Neuen besonders interessant: Jeden Dienstag 17:30-20:00 Uhr offenes Training in Patrizias Pinte und geht in die FB-Gruppe "Kickern in Paderborn (KL PB)"!
 
 Unsere TFC Paderwahn-Mannschaften trainieren natürlich auch immer fleißig:
-Wer Interesse hat, uns über die Schulter zu schauen oder selbst vllt in Zukunft einzusteigen, kann gern Mittwochs von 18-20 Uhr oder Samstags von ca. 17-20 Uhr vorbeischauen. Ihr seid herzlich willkommen!
+Wer Interesse hat, uns über die Schulter zu schauen oder selbst vllt in Zukunft einzusteigen, kann gern Mittwochs von 18-20 Uhr oder Samstags von ca. 17-20 Uhr in Patrizias Pinte vorbeischauen. Ihr seid herzlich willkommen!
 
 ----
 
 Events: 
 
-04.11.2013:
-    Title: 2. Ligaspieltag
-	Location: The Mad Hatter
-	Desc: ab 20:00 Uhr
+03.02.2014:
+    Title: Foosmonday
+    Location: Mad Hatter
+    Desc: 19-21 Uhr freies Spielen
 
-05.11.2013.:
-    Title: 2. Ligaspieltag
-	Location: Paderbowling & Patrizias Pinte
-	Desc: ab 19:00 Uhr & 20:00 Uhr
+04.02.2014:
+    Title: Offenes Training
+    Location: Patrizias Pinte
+    Desc: ab 17:30 Uhr
 
-05.11.2013:
+05.02.2014:
+    Title: 1. Einzelturnier
+    Location: Patrizias Pinte
+    Desc: Start 20:00 Uhr - einmalig (ab jetzt regelmäßig am 1. Mittwoch im Monat um 19:00 + alle 2 Monate am 3. Freitag)
+
+10.02.2014:
+    Title: Foosmonday
+    Location: Mad Hatter
+    Desc: 19-21 Uhr freies Spielen
+
+11.02.2014:
+    Title: DYP-Tour Start (1)
+    Location: Patrizias Pinte
+    Desc: ab 19:00 Uhr (weitere Termine folgen - Details siehe DYP-Tour-Gruppe bei Facebook)
+
+11.02.2014.:
     Title: Neulingstraining
-	Location: Patrizias Pinte
-	Desc: ab 17:30 Uhr
+    Location: Patrizias Pinte
+    Desc: ab 17:30 Uhr
 
-10.11.2013:
-    Title: TFC Paderwahn NRW-Spieltag
-	Location: Merkur Spielothek Werne und LLZ Bochum
-	Desc: ab 12:00 Uhr
+17.02.2014:
+    Title: Foosmonday
+    Location: Mad Hatter
+    Desc: 19-21 Uhr freies Spielen
 
-11.11.2013:
-        Title: Ligapokal 1/16-Finale
-	Location: The Mad Hatter
-	Desc: ab 20:00 Uhr
+18.02.2014:
+    Title: Offenes Training
+    Location: Patrizias Pinte
+    Desc: ab 17:30 Uhr
 
-12.11.2013.:
-        Title: Ligapokal 1/16-Finale
-	Location: Paderbowling & Patrizias Pinte
-	Desc: ab 19:00 & 20:00 Uhr
+21.02.2014:
+    Title: 2. Einzelturnier
+    Location: Mad Hatter
+    Desc: Start 19:00 Uhr (ab jetzt regelmäßig am 1. Mittwoch im Monat + alle 2 Monate am 3. Freitag)
 
-12.11.2013:
-        Title: Offenes Training
-	Location: Patrizias Pinte
-	Desc: ab 17:30 Uhr
+22.02.2014:
+    Title: Stadtm. Bochum
+    Location: Bochum
+    Desc: Start 11 Uhr ( https://www.facebook.com/events/178014379064878 )
 
-18.11.2013:
-        Title: 3. Ligaspieltag
-	Location: The Mad Hatter
-	Desc: ab 20:00 Uhr
+24.02.2014:
+    Title: Foosmonday
+    Location: Mad Hatter
+    Desc: 19-21 Uhr freies Spielen
 
-19.11.2013.:
-        Title: 3. Ligaspieltag
-	Location: Paderbowling & Patrizias Pinte
-	Desc: ab 19:00 Uhr & 20:00 Uhr
+25.02.2014:
+    Title: Neulingstraining
+    Location: Patrizias Pinte
+    Desc: ab 17:30 Uhr
 
-19.11.2013:
-        Title: Neulingstraining
-	Location: Patrizias Pinte
-	Desc: ab 17:30 Uhr
+03.03.2014:
+    Title: Foosmonday
+    Location: Mad Hatter
+    Desc: 19-21 Uhr freies Spielen
 
-23.11.2013:
-        Title: Stadtm. Wuppertal
-	Location: Wuppertal
-	Desc: ab 11:00 Uhr - mit Voranmeldung
+04.03.2014:
+    Title: Offenes Training
+    Location: Patrizias Pinte
+    Desc: ab 17:30 Uhr
 
-25.11.2013:
-        Title: 4. Ligaspieltag
-	Location: The Mad Hatter
-	Desc: ab 20:00 Uhr
+05.03.2014:
+    Title: 3. Einzelturnier
+    Location: Patrizias Pinte
+    Desc: Start 19:00 Uhr (ab jetzt regelmäßig am 1. Mittwoch im Monat + alle 2 Monate am 3. Freitag)
 
-26.11.2013.:
-        Title: 4. Ligaspieltag
-	Location: Paderbowling & Patrizias Pinte
-	Desc: ab 19:00 Uhr & 20:00 Uhr
+10.03.2014:
+    Title: Foosmonday
+    Location: Mad Hatter
+    Desc: 19-21 Uhr freies Spielen
 
-26.11.2013:
-        Title: Offenes Training
-	Location: Patrizias Pinte
-	Desc: ab 17:30 Uhr
+11.03.2014:
+    Title: Neulingstraining
+    Location: Patrizias Pinte
+    Desc: ab 17:30 Uhr
 
-02.12.2013:
-        Title: DYP-Turnier
-	Location: The Mad Hatter
-	Desc: ab 19:00 Uhr
+17.03.2014:
+    Title: Foosmonday
+    Location: Mad Hatter
+    Desc: 19-21 Uhr freies Spielen
 
-03.12.2013:
-        Title: Neulingstraining
-	Location: Patrizias Pinte
-	Desc: ab 17:30 Uhr
+18.03.2014:
+    Title: Offenes Training
+    Location: Patrizias Pinte
+    Desc: ab 17:30 Uhr
 
-03.12.2013.:
-        Title: Ligapokal 1/8-Finale
-	Location: Paderbowling & Patrizias Pinte
-	Desc: ab 19:00 Uhr & 20:00 Uhr
+21.03.2014:
+    Title: 4. Einzelturnier
+    Location: Patrizias Pinte
+    Desc: Start 19:00 Uhr (vorgezogen, da im April - Karfreitag)
 
-07.12.2013:
-        Title: Stadtm. Münster
-	Location: Münster
-	Desc: ab 11:00 Uhr - mit Voranmeldung
+24.03.2014:
+    Title: Foosmonday
+    Location: Mad Hatter
+    Desc: 19-21 Uhr freies Spielen
 
-09.12.2013:
-        Title: 5. Ligaspieltag
-	Location: The Mad Hatter
-	Desc: ab 20:00 Uhr
+25.03.2014:
+    Title: Neulingstraining
+    Location: Patrizias Pinte
+    Desc: ab 17:30 Uhr
 
-10.12.2013.:
-        Title: 5. Ligaspieltag
-	Location: Paderbowling & Patrizias Pinte
-	Desc: ab 19:00 Uhr & 20:00 Uhr
+31.03.2014:
+    Title: Foosmonday
+    Location: Mad Hatter
+    Desc: 19-21 Uhr freies Spielen
 
-10.12.2013:
-        Title: Offenes Training
-	Location: Patrizias Pinte
-	Desc: ab 17:30 Uhr
+01.04.2014:
+    Title: Offenes Training
+    Location: Patrizias Pinte
+    Desc: ab 17:30 Uhr
 
-16.12.2013:
-        Title: 6. Ligaspieltag
-	Location: The Mad Hatter
-	Desc: ab 20:00 Uhr
+02.04.2014:
+    Title: 5. Einzelturnier
+    Location: Patrizias Pinte
+    Desc: Start 19:00 Uhr (regelmäßig am 1. Mittwoch im Monat + alle 2 Monate am 3. Freitag)
 
-17.12.2013.:
-        Title: 6. Ligaspieltag
-	Location: Paderbowling & Patrizias Pinte
-	Desc: ab 19:00 Uhr & 20:00 Uhr
+07.04.2014:
+    Title: Foosmonday
+    Location: Mad Hatter
+    Desc: 19-21 Uhr freies Spielen
 
-17.12.2013:
-        Title: Neulingstraining
-	Location: Patrizias Pinte
-	Desc: ab 17:30 Uhr
+08.04.2014:
+    Title: Neulingstraining
+    Location: Patrizias Pinte
+    Desc: ab 17:30 Uhr
 
-19.12.2013:
-        Title: Weihnachtsfeier Kickerliga Paderborn
-	Location: Patrizias Pinte
-	Desc: ab 17:00 Uhr (ab 19:00 DYP für ca. 42 P.)
+14.04.2014:
+    Title: Foosmonday
+    Location: Mad Hatter
+    Desc: 19-21 Uhr freies Spielen
 
-07.01.2014:
-        Title: Offenes Training
-	Location: Patrizias Pinte
-	Desc: ab 17:30 Uhr
+15.04.2014:
+    Title: Offenes Training
+    Location: Patrizias Pinte
+    Desc: ab 17:30 Uhr
 
-13.01.2014:
-        Title: LigaCup (Platz 11-30)
-	Location: Paderbowling & Mad Hatter
-	Desc: beide ab 19:00 Uhr!!!
+21.04.2014:
+    Title: Foosmonday
+    Location: Mad Hatter
+    Desc: 19-21 Uhr freies Spielen (Ostermontag - entfällt evtl)
 
-14.01.2014:
-        Title: Neulingstraining
-	Location: Patrizias Pinte
-	Desc: ab 17:30 Uhr
+22.04.2014:
+    Title: Neulingstraining
+    Location: Patrizias Pinte
+    Desc: ab 17:30 Uhr
 
-14.01.2014.:
-        Title: Ligapokal 1/4-, 1/2- & Finale
-	Location: Mad Hatter & Patrizias Pinte
-	Desc: ab 20:00 Uhr
+25.04.2014:
+    Title: Eröffnungsturnier
+    Location: Gownsmens Pub (Uni)
+    Desc: ab 18:00 Uhr
 
-21.01.2014.:
-        Title: Meisterschaftsfinals & Saisonabschlussfeier
-	Location: Patrizias Pinte
-	Desc: ab 19:00 Uhr
+28.04.2014:
+    Title: Foosmonday
+    Location: Mad Hatter
+    Desc: 19-21 Uhr freies Spielen
 
-21.01.2014:
-        Title: Offenes Training
-	Location: Patrizias Pinte
-	Desc: ab 17:30 Uhr
-
-24.01.2014:
-        Title: MASTERS Turnier
-	Location: Gownsmen's Pub
-	Desc: 18:00 - Abschluss der Wintersaison - mit Anmeldung!
+12.07.2014:
+    Title: 2. Stadtm. Paderborn
+    Location: MultiCult am Haxthausenhof 18
+    Desc: Start 11:30 Uhr ( Voranmeldung an info@kickerliga-paderborn.de ... weitere Infos über http://www.kickerliga-paderborn.de/challenger )
