@@ -1345,6 +1345,26 @@ body {
   color: #333333;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hgroup,
+ul,
+ol,
+dd,
+p,
+figure,
+pre,
+table,
+fieldset,
+hr {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
+
 .chalk {
   font-family: "PWChalk", "Open Sans", sans-serif;
   text-transform: uppercase;
@@ -1413,6 +1433,10 @@ p {
   padding: 1em 1.5em;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+}
+
+.no-margin {
+  margin: 0;
 }
 
 .pure-button {
