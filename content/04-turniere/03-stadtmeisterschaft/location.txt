@@ -2,31 +2,30 @@
 
 ----
 
-Text: ## 1. Paderborner Tischfussball Stadtmeisterschaft
+Text: ## 2. Paderborner Tischfussball Stadtmeisterschaft
 
-(image: nwtfv.png class:push-right)
+(image: nwtfv.png class:fright)
 
-**Samstag, 13. Juli**
+**Samstag, 12. Juli 2014**
 **MultiCult am Haxthausenhof 18**
 
-Anmeldung unter <info@nwtfv.de>
+Wir gehen in Runde 2!
 
-Anmeldeschluss offenes Doppel: 11:30 Uhr
-Start Damen und Junioren 16:30 Uhr
+Anmeldung unter <info@kickerliga-paderborn.de> (noch nicht gestartet)
+
+Anmeldeschluss: 11:30 Uhr
 
 **Teilnahmegebühr**
 € 5 für DTFB Mitglieder
-€ 8 für Nicht-Mitglieder
+€ 10 für Nicht-Mitglieder
 Junioren unter 18 Jahren *kostenlos*
-
-(minigallery:plakat.jpg class: push-right width: 200)
 
 ### Spielmodus
 Gespielt wird nach ITSF Regeln
-Vorrunde: 2 Gewinnsätze im Schweizer System
-Hauptrunde ab 18 Uhr: Einfach-KO in drei Gruppen
+Vorrunde: gemischt, 2 Gewinnsätze im Schweizer System
+Hauptrunde ab 18 Uhr: Einfach-KO in drei Gruppen (24/24/24), Damen Top16, Senioren und Junioren jeweils Top8
 
-## Aftershow-DYP im Markandu
+### Aftershow-DYP und WM-Spiel um Platz 3 in Patrizias Pinte oder Mad Hatter (noch in Planung)
 
 Einstiegsmöglichkeit 19-22 Uhr
 Teilnahmegebühr für Challengerteilnehmer: € 1
