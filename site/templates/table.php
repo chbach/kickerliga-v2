@@ -30,13 +30,27 @@
 		    	</thead>
 		    	<tbody>
 		    	<?php foreach ($table as $index => $team): ?>
-		    	<tr>
+		    	<tr <?php if ($index == 9): ?>class="double-border"<?php endif; ?>>
 		    		<td><?php echo $index+1 ?>.</td>
 		    		<td><?php echo $team->name ?></td>
-		    		<td><?php echo $team->num_matches; ?></td>
-		    		<td><?php echo $team->num_matches_won; ?></td>
-		    		<td class="pure-hidden-phone"><?php echo $team->num_sets_won - $team->num_sets_lost; ?></td>
-		    		<td class="pure-hidden-phone"><?php echo $team->num_goals - $team->num_goals_against; ?></td>
+		    		<td class="acenter"><?php echo $team->num_matches; ?></td>
+		    		<td class="acenter"><?php echo $team->num_matches_won; ?></td>
+		    		<td class="pure-hidden-phone acenter">
+		    			<?php
+		    				$sets_diff = $team->num_sets_won - $team->num_sets_lost;
+
+		    				echo ($sets_diff > 0)? "+" : "";
+		    				echo $sets_diff;
+		    			?>
+		    		</td>
+		    		<td class="pure-hidden-phone acenter">
+		    			<?php
+		    				$goals_diff = $team->num_goals - $team->num_goals_against;
+
+		    				echo ($goals_diff > 0)? "+" : "";
+		    				echo $goals_diff;
+		    			?>
+		    		</td>
 		    	</tr>
 		    	<?php endforeach; ?>
 		    	</tbody>

@@ -1841,6 +1841,10 @@ a.pure-button-selected {
   border-top: 1px solid #ddd;
 }
 
+.double-border td {
+  border-bottom: 2px solid #cbcbcb;
+}
+
 /* ==============================
 	PHONES
 ============================== */
