@@ -1,9 +1,13 @@
-Title: Kirby
+Title: Kickerliga Paderborn
+
 ----
-Author: Bastian Allgeier
+
+Author: studylife Paderborn e.V
+
 ----
-Description: Kirby is awesome
+
+Description: Sechs Spieltage, drei Locations, 30 Teams, 100 Spieler. Dazu ein großes Eröffnungsturnier und ein riesiges Challenger zum Abschluss. Sei dabei!
+
 ----
-Keywords: kirby, cms, kirbycms, php, filesystem
-----
-Copyright: © 2009-(date: Year) (link: http://bastianallgeier.com text: Bastian Allgeier)
+
+Keywords: kicker, kickern, sport, turnier, liga, kickerliga, nrw, nrw liga, paderborn, tischfußball, foosball, dtfv, nwtfv, tfcp, paderwahn
