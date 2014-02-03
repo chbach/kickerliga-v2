@@ -1,0 +1,28 @@
+﻿Title: 1/4 Finale
+
+----
+
+Text: 
+
+----
+
+Matches: 1:
+	Location: Mad Hatter-Leo Pro Oben
+	Team1: Master of the Universe
+	Team2: Toyphil and Friends
+	Ergebnis:
+2:
+	Location: Mad Hatter-Leo Pro Unten
+	Team1: Padertech
+	Team2: The Daltons
+	Ergebnis:
+3:
+	Location: Patrizias Pinte-Leo Pro
+	Team1: J@s
+	Team2: 3d
+	Ergebnis:
+4:
+	Location: Patrizias Pinte-Ullrich
+	Team1: Abschussgefahr!!!
+	Team2: The Unity
+	Ergebnis:

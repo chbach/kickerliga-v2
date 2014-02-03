@@ -4,6 +4,5 @@
 		<a href="<?php echo $impressum->url() ?>">Impressum</a>
 	</div>
 </footer>
-
 </body>
 </html>

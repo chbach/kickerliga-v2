@@ -43,6 +43,7 @@ h2 {
 
 h3 {
 	font-size: 1.25em;
+	color: @dark-blue;
 }
 
 h4 {
@@ -51,6 +52,20 @@ h4 {
 
 p {
 	line-height: 1.5em;
+}
+
+a {
+	color: @dark-blue;
+
+	&:hover {
+		color: lighten(@dark-blue, 15%);
+	}
+}
+
+hr {
+	height:0;
+	border: 0;
+	border-top: 1px solid @border-color;
 }
 
 .compact {
@@ -93,6 +108,10 @@ p {
 
 .no-margin {
 	margin: 0;
+}
+
+.toggle {
+	cursor: pointer;
 }
 
 // PURE MODS
@@ -150,6 +169,19 @@ a.pure-button-selected {
 
 .pure-table {
 	width: 100%;
+
+	.subhead {
+		text-align: center;
+		font-size: 1.2em;
+		text-transform: uppercase;
+		font-weight: bold;
+		line-height: 1.5em;
+
+		small {
+			display: block;
+			font-weight: normal;
+		}
+	}
 }
 
 @media (max-width: 480px) {

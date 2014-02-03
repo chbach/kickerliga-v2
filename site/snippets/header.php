@@ -9,6 +9,7 @@
 	<meta name="robots" content="index, follow" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
 	<?php echo css('assets/css/main.css') ?>
 
 </head>

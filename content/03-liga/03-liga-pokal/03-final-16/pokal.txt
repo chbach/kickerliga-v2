@@ -1,0 +1,78 @@
+﻿Title: 1/16 Finale
+
+----
+
+Text: 
+
+----
+
+Matches: 1:
+	Location:Paderbowling-Leo Pro
+	Team1: Los Schlenzos
+	Team2: The Daltons
+	Ergebnis:0:3
+2:
+	Location:Paderbowling-Leo Pro
+	Team1: Partisan Pinshot
+	Team2: 3d
+	Ergebnis:0:3
+3:
+	Location:Paderbowling-Leo Pro
+	Team1: Tsubasa Wakabayashi
+	Team2: J@s
+	Ergebnis:0:3
+4:
+	Location:Patrizias Pinte-Ullrich
+	Team1: Lüllich
+	Team2: Drei Engel für Dragi
+	Ergebnis:0:3
+5:
+	Location:Patrizias Pinte-Ullrich
+	Team1: Die Kassierer 
+	Team2: The Unity
+	Ergebnis:0:3
+6:
+	Location:Patrizias Pinte-Leo Pro
+	Team1: Kick Bang Theory
+	Team2: Extended Mind Reloaded
+	Ergebnis:0:3
+7:
+	Location:Patrizias Pinte-Leo Pro
+	Team1: Die Blockwürste 
+	Team2: Padertech
+	Ergebnis:0:3
+8:
+	Location:Patrizias Pinte-Leo Pro
+	Team1: LineX
+	Team2: PinInEcken
+	Ergebnis:0:3
+9:
+	Location:Mad Hatter-Leo Pro Oben
+	Team1: Double Twingoal
+	Team2: ???
+	Ergebnis:0:3
+10:
+	Location:Mad Hatter-Leo Pro Oben
+	Team1: Plastic Magnetics
+	Team2: Abschussgefahr!!!
+	Ergebnis:0:3
+11:
+	Location:Mad Hatter-Leo Pro Oben
+	Team1: MDB United
+	Team2: The Perpetual Jellyfishes
+	Ergebnis:0:3
+12:
+	Location:Mad Hatter-Leo Pro Unten
+	Team1: Dynamo Tresen
+	Team2: Masters of the Universe
+	Ergebnis:0:3
+13:
+	Location:Mad Hatter-Leo Pro Unten
+	Team1: babybarsch
+	Team2: Dong & Dong
+	Ergebnis:0:3
+14:
+	Location:Mad Hatter-Leo Pro Unten
+	Team1: Thor 3.0
+	Team2: Die mit Bumms
+	Ergebnis:3:0

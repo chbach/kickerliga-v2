@@ -1386,6 +1386,7 @@ h2 {
 
 h3 {
   font-size: 1.25em;
+  color: #174489;
 }
 
 h4 {
@@ -1394,6 +1395,20 @@ h4 {
 
 p {
   line-height: 1.5em;
+}
+
+a {
+  color: #174489;
+}
+
+a:hover {
+  color: #2265cb;
+}
+
+hr {
+  height: 0;
+  border: 0;
+  border-top: 1px solid #dddddd;
 }
 
 .compact {
@@ -1437,6 +1452,10 @@ p {
 
 .no-margin {
   margin: 0;
+}
+
+.toggle {
+  cursor: pointer;
 }
 
 .pure-button {
@@ -1492,6 +1511,19 @@ a.pure-button-selected {
 
 .pure-table {
   width: 100%;
+}
+
+.pure-table .subhead {
+  font-size: 1.2em;
+  font-weight: bold;
+  line-height: 1.5em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.pure-table .subhead small {
+  display: block;
+  font-weight: normal;
 }
 
 @media (max-width: 480px) {
@@ -1762,6 +1794,51 @@ a.pure-button-selected {
   display: inline-block;
   margin: 1em;
   vertical-align: middle;
+}
+
+/* === MATCHES === */
+
+.matches {
+  margin: 3em 0 1em;
+  text-align: center;
+}
+
+.matches h3 {
+  padding-bottom: 0.25em;
+  margin: 1em 0 0.5em;
+  border-bottom: 1px solid #eee;
+}
+
+.matches .match {
+  width: 680px;
+  padding: 0.5em 0;
+  margin: 0 auto;
+}
+
+.matches .match .team {
+  display: block;
+  float: left;
+  width: 220px;
+  padding: 0 25px;
+  text-align: left;
+}
+
+.matches .match .team:first-child {
+  text-align: right;
+}
+
+.matches .match .result {
+  display: block;
+  float: left;
+  width: 70px;
+  padding: 0 20px;
+  text-align: center;
+}
+
+.detailed-results {
+  padding-top: 1em;
+  margin: 3em 0;
+  border-top: 1px solid #ddd;
 }
 
 /* ==============================
