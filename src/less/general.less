@@ -52,7 +52,7 @@ h4 {
 }
 
 p {
-	line-height: 1.5em;
+	line-height: 1.65em;
 }
 
 a {
@@ -139,7 +139,8 @@ hr {
 		background-image: linear-gradient(
 			fadeout(black, 95%) 100%, 
 			fadeout(black, 95%) 0%
-		)
+		);
+		color: @font-color;
 	}
 }
 
@@ -172,6 +173,10 @@ a.pure-button-primary,
 a.pure-button-selected {
 	background-color: lighten(@dark-blue, 20%);
 	color: #fff;
+
+	&:hover {
+		color: #fff;
+	}
 }
 
 .pure-g-r [class*="pure-u"] {

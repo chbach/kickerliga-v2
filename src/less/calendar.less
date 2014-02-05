@@ -1,0 +1,50 @@
+/* ==== CALENDER ==== */
+/* needs refactoring */
+.calendar {
+	.row {
+		clear:both;
+		border-bottom: 1px solid #ddd;
+		padding: 0.5em 0;
+
+		&.header {
+			display:none;
+		}
+
+		&.month {
+			color: @purple;
+			font-size: 1.25em;
+			margin: 0.5em 0 0;
+		}
+
+		.item, time {
+			display: inline-block;
+			padding-right:20px;
+		}
+
+		time {
+			width: 50px;
+		}
+
+		.item {
+			&.title {
+				font-weight: bold;
+				width: 150px;
+				color: @dark-blue;
+			}
+
+			&.desc {
+				display: block;
+				color: #999;
+				font-size: 0.875em;
+				margin-left: 250px;
+				margin-top: 0.5em;
+			}
+
+			&.location {
+				color: #777;
+			}
+		}
+
+
+	}
+}

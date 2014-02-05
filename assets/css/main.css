@@ -1395,7 +1395,7 @@ h4 {
 }
 
 p {
-  line-height: 1.5em;
+  line-height: 1.65em;
 }
 
 a {
@@ -1480,6 +1480,7 @@ hr {
 }
 
 .pure-button:hover {
+  color: #333333;
   background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.050000000000000044) 100%, rgba(0, 0, 0, 0.050000000000000044) 0);
   background-image: linear-gradient(rgba(0, 0, 0, 0.050000000000000044) 100%, rgba(0, 0, 0, 0.050000000000000044) 0);
 }
@@ -1514,6 +1515,13 @@ a.pure-button-primary,
 a.pure-button-selected {
   color: #fff;
   background-color: #2b70db;
+}
+
+.pure-button-primary:hover,
+.pure-button-selected:hover,
+a.pure-button-primary:hover,
+a.pure-button-selected:hover {
+  color: #fff;
 }
 
 .pure-g-r [class*="pure-u"] {
@@ -1854,6 +1862,54 @@ a.pure-button-selected {
 
 .double-border td {
   border-bottom: 2px solid #cbcbcb;
+}
+
+/* ==== CALENDER ==== */
+
+/* needs refactoring */
+
+.calendar .row {
+  padding: 0.5em 0;
+  clear: both;
+  border-bottom: 1px solid #ddd;
+}
+
+.calendar .row.header {
+  display: none;
+}
+
+.calendar .row.month {
+  margin: 0.5em 0 0;
+  font-size: 1.25em;
+  color: #8c0c97;
+}
+
+.calendar .row .item,
+.calendar .row time {
+  display: inline-block;
+  padding-right: 20px;
+}
+
+.calendar .row time {
+  width: 50px;
+}
+
+.calendar .row .item.title {
+  width: 150px;
+  font-weight: bold;
+  color: #174489;
+}
+
+.calendar .row .item.desc {
+  display: block;
+  margin-top: 0.5em;
+  margin-left: 250px;
+  font-size: 0.875em;
+  color: #999;
+}
+
+.calendar .row .item.location {
+  color: #777;
 }
 
 /* ==============================
