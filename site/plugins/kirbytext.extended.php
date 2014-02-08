@@ -13,7 +13,12 @@ class kirbytextExtended extends kirbytext {
   }
 
   function button($params) {
-    return '<a href="'.$params['url'].'" class="pure-button '.$params['class'].'">'.$params['button'].'</a>';
+    if (!isset($params['class'])) {
+      $params['class'] = "";
+    }
+    $params['class'] .= " pure-button";
+
+    return '<a href="'.$params['url'].'" class="'.$params['class'].'">'.$params['button'].'</a>';
   }
   
   function thumb($params) {

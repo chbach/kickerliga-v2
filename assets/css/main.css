@@ -1431,12 +1431,14 @@ hr {
   border-top: 1px solid #dddddd;
 }
 
-ul {
+ul,
+ol {
   padding: 0 0 0 1.5em;
 }
 
 li {
   padding: 0.125em 0;
+  line-height: 1.5em;
 }
 
 .compact {
@@ -1995,12 +1997,12 @@ a.pure-button-selected:hover {
     text-overflow: ellipsis;
   }
 
-  .main-header--teaser__text h1 {
+  .main-heade___text h1 {
     margin-top: 0;
     font-size: 2em;
   }
 
-  .main_header--teaser__splash {
+  .main-header__splash {
     display: none;
   }
 
