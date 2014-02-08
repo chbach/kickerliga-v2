@@ -7,11 +7,11 @@
 
 <header class="main-header main-header--teaser">
 	<section class="centered pure-g-r">
-		<div class="pure-u-1-3 main_header--teaser__splash l-box" >
+		<div class="pure-u-1-3 main-header__splash l-box" >
 			<img src="<?php echo $site->url() ?>/assets/images/maennchen.png" alt="maennchen">
 		</div>
 		<div class="pure-u-2-3 l-box">
-			<div class="main-header--teaser__text">
+			<div class="main-header__text">
 				<h1><?php echo html($topNews->title()) ?></h1>
 				<?php echo kirbytext($topNews->text()) ?>
 			</div>

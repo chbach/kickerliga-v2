@@ -2,23 +2,33 @@
 
 ----
 
-Text: ## 2. Paderborner Tischfussball Stadtmeisterschaft
+Teaser: 
 
-(image: nwtfv.png class:fright)
+# 2. Paderborner Tischfussball Stadtmeisterschaft
 
-**Samstag, 12. Juli 2014**
-**MultiCult am Haxthausenhof 18**
+**Wir gehen in Runde 2!**
 
-Wir gehen in Runde 2!
+----
+
+Time: Samstag, 12. Juli 2014
+
+----
+
+Location: MultiCult am Haxthausenhof 18
+
+----
+
+Text: 
 
 Anmeldung unter <info@kickerliga-paderborn.de> (noch nicht gestartet)
 
 Anmeldeschluss: 11:30 Uhr
 
 **Teilnahmegebühr**
-€ 5 für DTFB Mitglieder
-€ 10 für Nicht-Mitglieder
-Junioren unter 18 Jahren *kostenlos*
+
+* € 5 für DTFB Mitglieder
+* € 10 für Nicht-Mitglieder
+* Junioren unter 18 Jahren **kostenlos**
 
 ### Spielmodus
 Gespielt wird nach ITSF Regeln
@@ -30,3 +40,13 @@ Hauptrunde ab 18 Uhr: Einfach-KO in drei Gruppen (24/24/24), Damen Top16, Senior
 Einstiegsmöglichkeit 19-22 Uhr
 Teilnahmegebühr für Challengerteilnehmer: € 1
 Teilnahmegebühr für alle anderen: € 3
+
+----
+
+Sidebar: 
+
+(image: nwtfv.png)
+
+----
+
+LatLng: 51.721867, 8.751875

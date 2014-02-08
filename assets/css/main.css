@@ -1328,6 +1328,21 @@ a.pure-button-selected {
   border-bottom-width: 0;
 }
 
+@font-face {
+  font-family: Batch;
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/batch-icons-webfont.eot');
+  src: url('../fonts/batch-icons-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/batch-icons-webfont.woff') format('woff'), url('../fonts/batch-icons-webfont.ttf') format('truetype'), url('../fonts/batch-icons-webfont.svg#batchregular') format('svg');
+}
+
+.batch {
+  display: inline-block;
+  font-family: "Batch";
+  font-style: normal;
+  line-height: 1;
+}
+
 html {
   height: 100%;
 }
@@ -1363,6 +1378,10 @@ fieldset,
 hr {
   margin-top: 0;
   margin-bottom: 1rem;
+}
+
+.sans {
+  font-family: 'Open Sans', 'Helvetica Neue', 'Arial', sans-serif;
 }
 
 .chalk {
@@ -1410,6 +1429,14 @@ hr {
   height: 0;
   border: 0;
   border-top: 1px solid #dddddd;
+}
+
+ul {
+  padding: 0 0 0 1.5em;
+}
+
+li {
+  padding: 0.125em 0;
 }
 
 .compact {
@@ -1467,6 +1494,10 @@ hr {
 .fleft {
   float: left;
   margin: 0 0 0 1em;
+}
+
+.stick-to-footer {
+  margin-bottom: -0.5em;
 }
 
 .pure-button {
@@ -1632,32 +1663,74 @@ a.pure-button-selected:hover {
 	Header
 ============================== */
 
-.main-header--teaser {
+.main-header {
   padding: 3em 0;
-  background: url('../images/background.jpg') no-repeat center;
+  background-position: center center;
+  background-repeat: no-repeat;
   background-size: cover;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
 
-.main-header--teaser__text {
+.main-header--teaser {
+  background-image: url('../images/background.jpg');
+}
+
+.main-header__text {
   font-size: 125%;
   font-weight: 300;
   line-height: 1.75em;
   color: white;
 }
 
-.main-header--teaser__text h1 {
+.main-header__text h1 {
   line-height: 1.25em;
   color: white;
   text-shadow: 0 0 7px rgba(0, 0, 0, 0.8);
 }
 
-.main_header--teaser__splash {
+.main-header__splash {
   height: 550px;
   margin-bottom: -3em;
   overflow: hidden;
   vertical-align: bottom;
+}
+
+.main-header--custom {
+  text-align: center;
+}
+
+.main-header--custom h1 {
+  font-weight: 300;
+}
+
+.main-header--custom__text p {
+  font-size: 1.25em;
+}
+
+.main-header__meta {
+  padding-top: 1.5em;
+  font-size: 0.65em;
+  font-weight: normal;
+  border-top: 1px solid rgba(255, 255, 255, 0.19999999999999996);
+}
+
+.main-header__meta .meta-item {
+  display: inline-block;
+  margin: 0 1em;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.main-header__meta .batch {
+  margin-right: 0.5em;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+@media (max-width: 480px) {
+  .main-header__meta .meta-item {
+    display: block;
+    margin: 0;
+  }
 }
 
 /* ==============================

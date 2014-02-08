@@ -84,14 +84,19 @@
 /* ==============================
 	Header
 ============================== */
-.main-header--teaser {
-	background: url('../images/background.jpg') no-repeat center;
+.main-header {
 	background-size: cover;
 	box-sizing: border-box;
 	padding: 3em 0 ;
+	background-position: center center;
+	background-repeat: no-repeat;
 }
 
-.main-header--teaser__text {
+.main-header--teaser {
+	background-image: url('../images/background.jpg');
+}
+
+.main-header__text {
 	font-weight: 300;
 	font-size: 125%;
 	color: white;
@@ -104,11 +109,52 @@
 	}
 }
 
-.main_header--teaser__splash {
+.main-header__splash {
 	height: 550px;
 	overflow: hidden;
 	margin-bottom: -3em;
 	vertical-align: bottom;
+}
+
+.main-header--custom {
+	text-align: center;
+
+	h1 {
+		//.sans;
+		font-weight: 300;
+		//text-transform: none;
+	}
+}
+
+.main-header--custom__text {
+	p {
+		font-size: 1.25em;
+	}
+}
+
+.main-header__meta {
+	font-size: 0.65em;
+	font-weight: normal;
+	border-top: 1px solid fadeout(#fff, 80%);
+	padding-top: 1.5em;
+
+	.meta-item {
+		display: inline-block;
+		margin: 0 1em;
+		color: fadeout(#fff, 20%);
+	}
+
+	.batch {
+		margin-right: 0.5em;
+		color: fadeout(#fff, 30%);
+	}
+}
+
+@media (max-width: 480px) {
+	.main-header__meta .meta-item {
+		display: block;
+		margin: 0;
+	}
 }
 
 
