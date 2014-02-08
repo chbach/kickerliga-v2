@@ -182,4 +182,4 @@ Events:
 12.07.2014:
     Title: 2. Stadtm. Paderborn
     Location: MultiCult am Haxthausenhof 18
-    Desc: Start 11:30 Uhr ( Voranmeldung an info@kickerliga-paderborn.de ... weitere Infos über http://www.kickerliga-paderborn.de/challenger )
+    Desc: Start 11:30 Uhr (Voranmeldung an info@kickerliga-paderborn.de. Weitere Infos über http://www.kickerliga-paderborn.de/turniere/stadtmeisterschaft)

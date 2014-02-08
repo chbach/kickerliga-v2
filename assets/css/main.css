@@ -1962,28 +1962,56 @@ a.pure-button-selected:hover {
 .calendar .row time {
   display: inline-block;
   padding-right: 20px;
+  vertical-align: top;
 }
 
 .calendar .row time {
   width: 50px;
 }
 
-.calendar .row .item.title {
-  width: 150px;
+.calendar .row .title {
+  width: 175px;
   font-weight: bold;
   color: #174489;
 }
 
-.calendar .row .item.desc {
+.calendar .row .desc {
   display: block;
   margin-top: 0.5em;
-  margin-left: 250px;
+  margin-left: 275px;
   font-size: 0.875em;
+  line-height: 1.5em;
   color: #999;
 }
 
-.calendar .row .item.location {
+.calendar .row .location {
   color: #777;
+}
+
+@media (max-width: 767px) {
+  .calendar .row {
+    text-align: center;
+  }
+
+  .calendar .row .item,
+  .calendar .row time {
+    width: auto;
+    padding: 0;
+    margin: 0;
+  }
+
+  .calendar .row time {
+    margin-right: 1em;
+  }
+
+  .calendar .row .location {
+    display: block;
+    margin: 0.5em 0;
+  }
+
+  .calendar .row .desc {
+    display: block;
+  }
 }
 
 /* ==============================
