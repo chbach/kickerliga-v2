@@ -1650,6 +1650,7 @@ a.pure-button-selected:hover {
 }
 
 .sub-nav a {
+  position: relative;
   display: block;
   padding: 0.5em;
   font-weight: bold;
@@ -1659,9 +1660,26 @@ a.pure-button-selected:hover {
   border-bottom: 1px solid #dddddd;
 }
 
-.sub-nav .active a,
 .sub-nav a:hover {
   color: #2b70db;
+}
+
+.sub-nav .active,
+.sub-nav .active:hover {
+  color: #2b70db;
+}
+
+.sub-nav .active:after,
+.sub-nav .active:hover:after {
+  position: absolute;
+  top: 50%;
+  left: -10px;
+  width: 0;
+  height: 0;
+  margin-top: -4px;
+  border: 5px solid transparent;
+  border-left-color: #dddddd;
+  content: '';
 }
 
 /* ==============================
@@ -1786,20 +1804,18 @@ a.pure-button-selected:hover {
   padding: 0 0 1em 0;
   margin-top: 3em;
   color: #fff;
+  color: #999;
   text-align: right;
   background: #1E1E20;
 }
 
 .main-footer a {
-  font-weight: bold;
-  color: #fff;
+  color: #999;
   text-decoration: none;
-  text-transform: uppercase;
-  opacity: .5;
 }
 
 .main-footer a:hover {
-  opacity: .8;
+  color: #ccc;
 }
 
 /* ==============================

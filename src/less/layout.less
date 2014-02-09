@@ -71,10 +71,27 @@
 		text-decoration: none;
 		font-weight: bold;
 		//opacity: .8;
+		position: relative;
+
+		&:hover {
+			color: lighten(@dark-blue, 20%);
+		}
 	}
 
-	.active a, a:hover {
+	.active, .active:hover {
 		color: lighten(@dark-blue, 20%);
+
+		&:after {
+			content: '';
+			height: 0;
+			width: 0;
+			border: 5px solid transparent;
+			border-left-color: @border-color;
+			position: absolute; 
+			left: -10px;
+			top: 50%;
+			margin-top: -4px;
+		}
 	}
 }
 
@@ -205,16 +222,14 @@
 	position: absolute;
 	bottom: 0;
 	width: 100%;
+	color: #999;
 
 	a {
-		font-weight: bold;
-		color: #fff;
-		text-decoration: none;
-		opacity: .5;
-		text-transform: uppercase;
+		color: #999;
 
+		text-decoration: none;
 		&:hover {
-			opacity: .8;
+			color: #ccc;	
 		}
 	}
 }
