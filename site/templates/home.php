@@ -27,9 +27,11 @@
 		</div>
 	</section>
 </header>
-
 <section class="landing-section" role="main">
-	<div class="pure-g-r centered">
+	<div class="pure-g-r centered relative">
+		<a class="meinkicker" href="http://meinkicker.com" target="_blank">
+			<img src="assets/images/meinkicker.png" alt="meinkicker.com" />
+		</a>
 		<div class="pure-u-1-3 l-box">
 			<h2 class="compact">Termine</h2>
 			<?php snippet("termine", array("tplOption" => "teaser")); ?>

@@ -1502,6 +1502,10 @@ li {
   margin-bottom: -0.5em;
 }
 
+.relative {
+  position: relative;
+}
+
 .pure-button {
   overflow: hidden;
   font-weight: normal;
@@ -1689,6 +1693,19 @@ a.pure-button-selected:hover {
   line-height: 1.25em;
   color: white;
   text-shadow: 0 0 7px rgba(0, 0, 0, 0.8);
+}
+
+.meinkicker {
+  display: none;
+}
+
+@media (min-width: 1364px) {
+  .meinkicker {
+    position: absolute;
+    top: 1em;
+    right: -180px;
+    display: block;
+  }
 }
 
 @media (min-width: 768px) {
