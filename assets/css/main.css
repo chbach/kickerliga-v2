@@ -1602,7 +1602,7 @@ a.pure-button-selected:hover {
 }
 
 .main-nav__logo img {
-  height: 6em;
+  height: 4em;
   margin: 0.5em 0;
 }
 
@@ -1620,7 +1620,7 @@ a.pure-button-selected:hover {
 
 .main-nav__links a {
   display: inline-block;
-  padding: 4.5em 0.75em 0.5em 0.75em;
+  padding: 2.65em 0.75em 0.35em 0.75em;
   font-weight: bold;
   line-height: 2.25em;
   color: #666666;
@@ -1665,6 +1665,7 @@ a.pure-button-selected:hover {
 ============================== */
 
 .main-header {
+  position: relative;
   padding: 3em 0;
   background-position: center center;
   background-repeat: no-repeat;
@@ -1690,11 +1691,17 @@ a.pure-button-selected:hover {
   text-shadow: 0 0 7px rgba(0, 0, 0, 0.8);
 }
 
+@media (min-width: 768px) {
+  .main-header--teaser__textbox {
+    margin-left: 33%;
+  }
+}
+
 .main-header__splash {
+  position: absolute;
+  bottom: 0;
   height: 550px;
-  margin-bottom: -3em;
   overflow: hidden;
-  vertical-align: bottom;
 }
 
 .main-header--custom {
@@ -1707,6 +1714,20 @@ a.pure-button-selected:hover {
 
 .main-header--custom__text p {
   font-size: 1.25em;
+}
+
+.main-header--custom__text .pure-button {
+  font-size: 0.75em;
+  font-weight: normal;
+  color: white;
+  background: rgba(255, 255, 255, 0.09999999999999998);
+  border: 2px solid white;
+  border-radius: 2em;
+  opacity: .8;
+}
+
+.main-header--custom__text .pure-button:hover {
+  opacity: 1;
 }
 
 .main-header__meta {
@@ -1802,7 +1823,7 @@ a.pure-button-selected:hover {
 .quick-links {
   padding-left: 0;
   margin-top: 0;
-  margin-top: 1.125em;
+  margin-top: -0.3em;
   list-style: none;
 }
 
@@ -1811,7 +1832,6 @@ a.pure-button-selected:hover {
   padding: 0.5em 0;
   margin: 0.25em 0;
   font-weight: bold;
-  text-transform: uppercase;
 }
 
 /* ==============================

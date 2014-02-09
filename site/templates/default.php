@@ -1,5 +1,4 @@
 <?php snippet('header') ?>
-
 <section class="landing-section" role="main">
 	<div class="pure-g-r centered">
 		<div class="pure-u-1 l-box">

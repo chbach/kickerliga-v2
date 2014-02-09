@@ -1,3 +1,37 @@
 Title: Neu hier?
 ----
-Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a,
+Text: 
+### Wo und wann wird gekickert?
+
+Um immer auf dem Laufenden zu bleiben, wo gerade gekickert wird, schau am Besten bei Facebook vorbei oder in unsere Termine. Auf Facebook findest du auch einen Haufen Fotos, wo du dir einen Eindruck davon verschaffen kannst, was so an einem Turnier oder Spieltag abgeht.
+
+(button:Facebook-Seite class:pure-button-primary url:https://www.facebook.com/Kickerliga.Paderborn.official) (button: Kickern in Paderborn Gruppe url:https://www.facebook.com/groups/188185721225049/) (button: Termine url: ../termine)
+
+### Wer kann mitmachen?
+
+**Jeder** ist herzlichst eingeladen, bei uns in der Liga, auf den Turnieren oder zum Daddeln zwischendurch vorbeizuschauen!
+
+### Ich möchte Kickern lernen
+
+Das finden wir super, wir bieten regelmäßig Neulingstrainings an. Schau bei den Terminen vorbei, um zu erfahren, wann wieder eins stattfindet.
+
+<br>
+<hr>
+<br>
+
+## Infos zum Ligabetrieb 
+
+Jedes Semester ist das Minimum an Programm ein Eröffnungsturnier, an dem bevorzugt Teilnehmer aus Paderborn und dem näheren Umfeld mitspielen, ein Liga-Betrieb, der sich über das Semester hinwegstreckt und ein Abschlussturnier (Masters oder Stadtmeisterschaft), an dem alle Leistungsklassen und Teilnehmer aus einem weiteren Einzugsgebiet teilnehmen können. 
+
+Dem Liga-Betrieb gliedern sich noch zwei kleine Turniere an - die Meisterschaftsplayoffs und der Liga-Cup. An diesen Turnieren nehmen nur die Liga-Teilnehmer der jeweiligen Saison teil. Die Turniere sind jeweils unabhängig von der Liga - sprich: Man kann sich für alle drei Veranstaltungen anmelden oder sich etwas rauspicken.
+
+### Preise und Gutscheine:
+
+Natürlich kann man bei uns auch viel Gewinnen. Dank der Sponsoren und Förderer haben wir jede Menge tolle Gutscheine, wie zum Beispiel für die WestfalenTherme, das Cineplex, oder von Slider, sowie Tickets für die Webmöbelbaskets und Preise, in Form von alkoholische Getränken, Sportgeräte, T-Shirts, Bücher und vielem mehr von Geschäften wie zum Beispiel Thalia, Slider, Markandu und, und, und.... Zusätzlich gibt es noch hübsch gestaltete Urkunden und die heißbegehrten Wanderpokale.
+ 
+ 
+### Kosten:
+ 
+Für die Teilnahme an den Turnieren müsst ihr jeweils 5 Euro pro Person bezahlen. Die Teamanmeldung für den Ligabetrieb beträgt für die beiden Stammspieler 12 Euro und für jeden weiteren Ersatzspieler 8 Euro. Dazu gibt es für alle Ligaspieler ein Slider-KickerligaShirt. Dieses wird jede Saison neu gestaltet. Also etwas für Sammelfreunde... :)
+
+Außerdem erhält jeder einen Ligapass, der euch Vergünstigungen in unseren Spieltags-Locations und weiteren Geschäften in Paderborn verschafft.

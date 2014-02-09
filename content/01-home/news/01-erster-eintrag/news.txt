@@ -1,9 +1,13 @@
-Title: Saisonstart WS 13/14
+Title: Wir haben eine neue Website
 ----
-Date: 01/01/2013
+Date: 02/09/2013
 ----
 Text: 
 
-**Es geht wieder los!** Während die DYP-Tour noch rollt, ist ab sofort die Anmeldung für die Winter-Saison (Eröffnungsturnier und Liga) geöffnet. Mit Patrizias Pinte haben wir diese Saison auch einen würdigen Ersatz für das Markandu gefunden und freuen uns auf viele packende Begegnungen dort.
+Nach langer Entwicklungsphase haben wir nun eine neue Website, auf der ihr in Zukunft mehr Informationen zur Kickerliga und zur Kickerszene in Paderborn erfahrt. Dies soll nun die zentrale Anlaufstelle für alles sein, was sich um Kickern in der Stadt dreht!
 
-(button:Jetzt anmelden! class:pure-button-primary url:http://studylife.de/kickerliga)
+Die neue Website ist außerdem auch mobilgeeignet, so dass ihr von überall aus immer die Tabelle, den Spielplan und die nächsten anstehenden Termine sehen könnt.
+
+Das nächste große Event ist die dritte Paderborner DYP-Tour, wir hoffen, man sieht sich dort.
+
+Das Kickerliga Paderborn Orga-Team

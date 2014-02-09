@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 
 <?php 
-	$news = $page->children()->find("news")->children();
+	$news = $page->children()->find("news")->children()->flip();
 	$topNews = $news->first();
 ?>
 
@@ -10,7 +10,7 @@
 		<div class="pure-u-1-3 main-header__splash l-box" >
 			<img src="<?php echo $site->url() ?>/assets/images/maennchen.png" alt="maennchen">
 		</div>
-		<div class="pure-u-2-3 l-box">
+		<div class="pure-u-2-3 l-box main-header--teaser__textbox">
 			<div class="main-header__text">
 				<h1><?php echo html($topNews->title()) ?></h1>
 				<?php echo kirbytext($topNews->text()) ?>
@@ -42,9 +42,9 @@
 			<p>Wir sind die Kickerliga Paderborn und machen seit über fünf Jahren die Paderborner Kneipenszene unsicher. </p>
 
 			<ul class="quick-links">
-				<li><a class="pure-button" href="#">Spielplan &amp; Tabelle</a></li>
-				<li><a class="pure-button" href="#">Kickerliga auf Facebook</a></li>
-				<li><a class="pure-button" href="#">Kickern in Paderborn Gruppe</a></li>
+				<li><a class="pure-button" href="/liga">Spielplan &amp; Tabelle</a></li>
+				<li><a class="pure-button" href="https://www.facebook.com/Kickerliga.Paderborn.official">Kickerliga auf Facebook</a></li>
+				<li><a class="pure-button" href="https://www.facebook.com/groups/188185721225049/">Kickern in Paderborn Gruppe</a></li>
 			</ul>
 		</div>
 		

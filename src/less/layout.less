@@ -14,7 +14,7 @@
 	float: left;
 
 	img {
-		height: 6em;
+		height: 4em;
 		margin: 0.5em 0;
 	}
 }
@@ -33,7 +33,7 @@
 	a {
 		display: inline-block;
 		line-height: 2.25em;
-		padding: 4.5em 0.75em 0.5em 0.75em;
+		padding: 2.65em 0.75em 0.35em 0.75em;
 		color: @font-light;
 		text-decoration: none;
 		font-weight: bold;
@@ -90,6 +90,7 @@
 	padding: 3em 0 ;
 	background-position: center center;
 	background-repeat: no-repeat;
+	position: relative;
 }
 
 .main-header--teaser {
@@ -109,13 +110,18 @@
 	}
 }
 
+@media (min-width: 768px) {
+	.main-header--teaser__textbox {
+		margin-left: 33%;
+	}
+}
+
 .main-header__splash {
 	height: 550px;
 	overflow: hidden;
-	margin-bottom: -3em;
-	vertical-align: bottom;
+	position: absolute;
+	bottom: 0;
 }
-
 .main-header--custom {
 	text-align: center;
 
@@ -129,6 +135,20 @@
 .main-header--custom__text {
 	p {
 		font-size: 1.25em;
+	}
+
+	.pure-button {
+		font-size: 0.75em;
+		background: fadeout(white, 90%);
+		border: 2px solid white;
+		color: white;
+		font-weight: normal;
+		opacity: .8;
+		border-radius: 2em;
+
+		&:hover {
+			opacity: 1;
+		}
 	}
 }
 
@@ -227,12 +247,11 @@
 ============================== */
 .quick-links {
 	.stripped-list;
-	margin-top: 1.125em;
+	margin-top: -0.3em;
 
 	.pure-button {
 		display: block;
 		margin: 0.25em 0;
-		text-transform: uppercase;
 		font-weight: bold;
 		padding: 0.5em 0;
 	}
