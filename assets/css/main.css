@@ -1708,6 +1708,7 @@ a.pure-button-selected:hover {
 }
 
 .main-header__text h1 {
+  font-weight: normal;
   line-height: 1.25em;
   color: white;
   text-shadow: 0 0 7px rgba(0, 0, 0, 0.8);
