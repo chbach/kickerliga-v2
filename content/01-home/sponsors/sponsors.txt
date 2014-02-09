@@ -12,7 +12,7 @@ therme.png:
 patrizias.png: 
 	url: hhttp://www.patricias-pinte.de/
 highlander.png: 
-	url: http://www.facebook.com/highlander.paderborn
+	url: https://www.facebook.com/madhatterpb
 paderbowling.png: 
 	url: http://www.paderbowling.de/
 tuba.png:
