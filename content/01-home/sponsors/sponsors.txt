@@ -1,7 +1,8 @@
-sponsors:
+﻿Title: sponsors
 
+----
 
-slider.png:
+Sponsors: slider.png:
 	url: http://www.slider-theboardshop.de/
 cineplex.png:
 	url: http://www.cineplex.de/kino/home/city40/
@@ -10,7 +11,7 @@ mlp.png:
 therme.png: 
 	url: http://www.westfalen-therme.de/
 patrizias.png: 
-	url: hhttp://www.patricias-pinte.de/
+	url: http://www.patricias-pinte.de/
 highlander.png: 
 	url: https://www.facebook.com/madhatterpb
 paderbowling.png: 
