@@ -11,7 +11,7 @@
 	<link rel="shortcut icon" href="http://www.kickerliga-paderborn.de/favicon.ico"/>
 
 	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
-	<?php echo css('assets/css/main.css') ?>
+	<?php echo css('assets/css/main.min.css') ?>
 
 </head>
 

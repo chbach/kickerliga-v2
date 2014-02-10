@@ -21,9 +21,23 @@ module.exports = (grunt) ->
 					compress: false
 
 		autoprefixer:
+			options: 
+				browsers: ['> 1%', 'last 2 versions', 'ff 17', 'opera 12.1', 'android 2.3']
 			single_file:
 				src:  '<%= tmpDir %>css/*.css',
 				dest: '<%= buildDir %>css/main.css'
+
+		cssmin:
+			options: 
+				keepSpecialComments: 0
+				report: 'gzip'
+			minify: 
+				expand: true,
+				cwd: '<%= buildDir %>/css',
+				src: ['*.css', '!*.min.css'],
+				dest: '<%= buildDir %>/css',
+				ext: '.min.css'
+				
 
 
 		delta:
@@ -31,7 +45,7 @@ module.exports = (grunt) ->
 				livereload: true
 			less:
 				files: [ 'src/less/*.less' ]
-				tasks: [ 'recess:build', 'autoprefixer' ]
+				tasks: [ 'recess:build', 'autoprefixer', 'cssmin:build' ]
 
 
 
@@ -47,4 +61,5 @@ module.exports = (grunt) ->
 		'clean'
 		'recess:build'
 		'autoprefixer'
+		'cssmin:minify'
 	]
