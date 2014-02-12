@@ -1393,12 +1393,23 @@ hr {
 
 .chalk {
   font-family: "PWChalk", "Open Sans", sans-serif;
+  font-weight: normal;
   text-transform: uppercase;
+}
+
+h1,
+h2 {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  word-break: break-word;
 }
 
 h1 {
   font-family: "PWChalk", "Open Sans", sans-serif;
   font-size: 2.5em;
+  font-weight: normal;
   color: #174489;
   text-transform: uppercase;
 }
@@ -1406,6 +1417,7 @@ h1 {
 h2 {
   font-family: "PWChalk", "Open Sans", sans-serif;
   font-size: 2em;
+  font-weight: normal;
   color: #8c0c97;
   text-transform: uppercase;
 }
@@ -1741,6 +1753,12 @@ a.pure-button-selected:hover {
 @media (min-width: 768px) {
   .main-header--teaser__textbox {
     margin-left: 33%;
+  }
+}
+
+@media (max-width: 767px) {
+  .main-header__text h1 {
+    font-size: 2em;
   }
 }
 

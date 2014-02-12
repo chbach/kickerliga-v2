@@ -45,7 +45,7 @@ module.exports = (grunt) ->
 				livereload: true
 			less:
 				files: [ 'src/less/*.less' ]
-				tasks: [ 'recess:build', 'autoprefixer', 'cssmin:build' ]
+				tasks: [ 'recess:build', 'autoprefixer', 'cssmin:minify' ]
 
 
 
