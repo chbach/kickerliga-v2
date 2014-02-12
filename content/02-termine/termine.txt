@@ -2,9 +2,7 @@
 
 ----
 
-Text:
-
-Jeden **Dienstag 17:30-20:00 Uhr offenes Training** in Patrizias Pinte und geht in die FB-Gruppe 
+Text: Jeden **Dienstag 17:30-20:00 Uhr offenes Training** in Patrizias Pinte und geht in die FB-Gruppe 
 (link: https://www.facebook.com/groups/188185721225049/ text: "Kickern in Paderborn")!
 
 Unsere TFC Paderwahn-Mannschaften trainieren natürlich auch immer fleißig:
@@ -12,9 +10,7 @@ Wer Interesse hat, uns über die Schulter zu schauen oder selbst vllt in Zukunft
 
 ----
 
-Events: 
-
-03.02.2014:
+Events: 03.02.2014:
     Title: Foosmonday
     Location: Mad Hatter
     Desc: 19-21 Uhr freies Spielen
@@ -35,9 +31,9 @@ Events:
     Desc: 19-21 Uhr freies Spielen
 
 11.02.2014:
-    Title: DYP-Tour Start (1)
+    Title: DYP-Tour Start (T1)
     Location: Patrizias Pinte
-    Desc: ab 19:00 Uhr (weitere Termine folgen - Details siehe DYP-Tour-Gruppe bei Facebook)
+    Desc: ab 19:00 Uhr (Details siehe DYP-Tour-Gruppe -> https://www.facebook.com/groups/304751846294193/ )
 
 11.02.2014.:
     Title: Neulingstraining
@@ -54,6 +50,11 @@ Events:
     Location: Patrizias Pinte
     Desc: ab 17:30 Uhr
 
+19.02.2014:
+    Title: DYP-Turnier (T2)
+    Location: Mad Hatter
+    Desc: ab 19:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
+
 21.02.2014:
     Title: 2. Einzelturnier
     Location: Mad Hatter
@@ -65,6 +66,11 @@ Events:
     Desc: Start 11 Uhr ( https://www.facebook.com/events/178014379064878 )
 
 24.02.2014:
+    Title: DYP-Turnier (T3)
+    Location: Paderbowling
+    Desc: ab 19:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
+
+24.02.2014.:
     Title: Foosmonday
     Location: Mad Hatter
     Desc: 19-21 Uhr freies Spielen
@@ -89,6 +95,11 @@ Events:
     Location: Patrizias Pinte
     Desc: Start 19:00 Uhr (ab jetzt regelmäßig am 1. Mittwoch im Monat + alle 2 Monate am 3. Freitag)
 
+06.03.2014:
+    Title: DYP-Turnier (T4)
+    Location: Ölberg (16)
+    Desc: ab 19:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
+
 10.03.2014:
     Title: Foosmonday
     Location: Mad Hatter
@@ -98,6 +109,11 @@ Events:
     Title: Neulingstraining
     Location: Patrizias Pinte
     Desc: ab 17:30 Uhr
+
+13.03.2014:
+    Title: DYP-Turnier (T5)
+    Location: Sappho
+    Desc: ab 20:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
 
 17.03.2014:
     Title: Foosmonday
@@ -111,7 +127,7 @@ Events:
 
 21.03.2014:
     Title: 4. Einzelturnier
-    Location: Patrizias Pinte
+    Location: Mad Hatter
     Desc: Start 19:00 Uhr (vorgezogen, da im April - Karfreitag)
 
 24.03.2014:
@@ -123,6 +139,11 @@ Events:
     Title: Neulingstraining
     Location: Patrizias Pinte
     Desc: ab 17:30 Uhr
+
+26.03.2014:
+    Title: DYP-Turnier (T6)
+    Location: Mad Hatter
+    Desc: ab 19:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
 
 31.03.2014:
     Title: Foosmonday
@@ -139,7 +160,17 @@ Events:
     Location: Patrizias Pinte
     Desc: Start 19:00 Uhr (regelmäßig am 1. Mittwoch im Monat + alle 2 Monate am 3. Freitag)
 
+03.04.2014:
+    Title: DYP-Turnier (T7)
+    Location: Ölberg (16)
+    Desc: ab 19:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
+
 07.04.2014:
+    Title: DYP-Turnier (T8)
+    Location: Paderbowling
+    Desc: ab 19:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
+
+07.04.2014.:
     Title: Foosmonday
     Location: Mad Hatter
     Desc: 19-21 Uhr freies Spielen
@@ -155,6 +186,11 @@ Events:
     Desc: 19-21 Uhr freies Spielen
 
 15.04.2014:
+    Title: Final-DYP (T9)
+    Location: Patrizias Pinte
+    Desc: ab 19:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
+
+15.04.2014.:
     Title: Offenes Training
     Location: Patrizias Pinte
     Desc: ab 17:30 Uhr
