@@ -10,77 +10,7 @@ Wer Interesse hat, uns über die Schulter zu schauen oder selbst vllt in Zukunft
 
 ----
 
-Events: 03.02.2014:
-    Title: Foosmonday
-    Location: Mad Hatter
-    Desc: 19-21 Uhr freies Spielen
-
-04.02.2014:
-    Title: Offenes Training
-    Location: Patrizias Pinte
-    Desc: ab 17:30 Uhr
-
-05.02.2014:
-    Title: 1. Einzelturnier
-    Location: Patrizias Pinte
-    Desc: Start 20:00 Uhr - einmalig (ab jetzt regelmäßig am 1. Mittwoch im Monat um 19:00 + alle 2 Monate am 3. Freitag)
-
-10.02.2014:
-    Title: Foosmonday
-    Location: Mad Hatter
-    Desc: 19-21 Uhr freies Spielen
-
-11.02.2014:
-    Title: DYP-Tour Start (T1)
-    Location: Patrizias Pinte
-    Desc: ab 19:00 Uhr (Details siehe DYP-Tour-Gruppe -> https://www.facebook.com/groups/304751846294193/ )
-
-11.02.2014.:
-    Title: Neulingstraining
-    Location: Patrizias Pinte
-    Desc: ab 17:30 Uhr
-
-17.02.2014:
-    Title: Foosmonday
-    Location: Mad Hatter
-    Desc: 19-21 Uhr freies Spielen
-
-18.02.2014:
-    Title: Offenes Training
-    Location: Patrizias Pinte
-    Desc: ab 17:30 Uhr
-
-19.02.2014:
-    Title: DYP-Turnier (T2)
-    Location: Mad Hatter
-    Desc: ab 19:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
-
-21.02.2014:
-    Title: 2. Einzelturnier
-    Location: Mad Hatter
-    Desc: Start 19:00 Uhr (ab jetzt regelmäßig am 1. Mittwoch im Monat + alle 2 Monate am 3. Freitag)
-
-22.02.2014:
-    Title: Stadtm. Bochum
-    Location: Bochum
-    Desc: Start 11 Uhr ( https://www.facebook.com/events/178014379064878 )
-
-24.02.2014:
-    Title: DYP-Turnier (T3)
-    Location: Paderbowling
-    Desc: ab 19:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
-
-24.02.2014.:
-    Title: Foosmonday
-    Location: Mad Hatter
-    Desc: 19-21 Uhr freies Spielen
-
-25.02.2014:
-    Title: Neulingstraining
-    Location: Patrizias Pinte
-    Desc: ab 17:30 Uhr
-
-03.03.2014:
+Events: 03.03.2014:
     Title: Foosmonday
     Location: Mad Hatter
     Desc: 19-21 Uhr freies Spielen
@@ -115,12 +45,27 @@ Events: 03.02.2014:
     Location: Sappho
     Desc: ab 20:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
 
+16.03.2014:
+    Title: ANMELDESTART
+    Location: hier auf dem Portal
+    Desc: ab 19:00 Uhr für LIGA und Eröffnungsturnier (Details -> www.kickerliga-paderborn.de )
+
+16.03.2014.:
+    Title: 1. Spieltag NRW-Liga
+    Location: Patrizias Pinte / LLZ Soest (TFC 2&3)
+    Desc: 11:00 bis 19:00 Uhr (TFC Paderwahn 1 vs. Werne, Bochum 2 und Lünen)
+
 17.03.2014:
     Title: Foosmonday
     Location: Mad Hatter
     Desc: 19-21 Uhr freies Spielen
 
 18.03.2014:
+    Title: DYP-Turnier (T6)
+    Location: Sketch (ehemals Lounge and Peppers)
+    Desc: ab 19:00 Uhr
+
+18.03.2014.:
     Title: Offenes Training
     Location: Patrizias Pinte
     Desc: ab 17:30 Uhr
@@ -141,7 +86,7 @@ Events: 03.02.2014:
     Desc: ab 17:30 Uhr
 
 26.03.2014:
-    Title: DYP-Turnier (T6)
+    Title: DYP-Turnier (T7)
     Location: Mad Hatter
     Desc: ab 19:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
 
@@ -161,12 +106,12 @@ Events: 03.02.2014:
     Desc: Start 19:00 Uhr (regelmäßig am 1. Mittwoch im Monat + alle 2 Monate am 3. Freitag)
 
 03.04.2014:
-    Title: DYP-Turnier (T7)
+    Title: DYP-Turnier (T8)
     Location: Ölberg (16)
     Desc: ab 19:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
 
 07.04.2014:
-    Title: DYP-Turnier (T8)
+    Title: DYP-Turnier (T9)
     Location: Paderbowling
     Desc: ab 19:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
 
@@ -186,7 +131,7 @@ Events: 03.02.2014:
     Desc: 19-21 Uhr freies Spielen
 
 15.04.2014:
-    Title: Final-DYP (T9)
+    Title: Final-DYP (T10)
     Location: Patrizias Pinte
     Desc: ab 19:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
 
@@ -214,6 +159,11 @@ Events: 03.02.2014:
     Title: Foosmonday
     Location: Mad Hatter
     Desc: 19-21 Uhr freies Spielen
+
+29.04.2014:
+    Title: LIGASTART
+    Location: Mad Hatter/Pinte/Sketch/Paderbowling
+    Desc: 18:00 Liga-Start, 19:00 1. Spieltag
 
 12.07.2014:
     Title: 2. Stadtm. Paderborn

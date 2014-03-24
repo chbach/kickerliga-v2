@@ -1,0 +1,11 @@
+﻿Title: Es geht wieder los
+
+----
+
+Date: 2014-03-16
+
+----
+
+Text: Wir starten in die 14. Saison der Slider Kickerliga Paderborn und ihr könnt euch jetzt schon für das Eröffnungsturnier und die Liga anmelden. Auf ein weiteres Semester voll von spannenden und spaßigen Partien in der Kneipenszene Paderborns.
+
+(button: Eröffnungsturnier url: turniere/eroeffnungsturnier-saison-ss14 class: pure-button-primary) (button: Liga url: liga/anmeldung-saison-sose-2014)

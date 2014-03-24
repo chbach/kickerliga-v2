@@ -1,0 +1,7 @@
+﻿Title: Location-Map
+
+----
+
+Text: Hier findest du eine Karte mit allen heißen Kickerlocations in Paderborn. Klicke auf einen Marker, um Informationen zu den Tischen dort zu bekommen.
+
+<iframe src="https://mapsengine.google.com/map/embed?mid=z0wOPJsRU7RY.kwUstz5DRr2c" width="100%" height="480" style="border:none"></iframe>

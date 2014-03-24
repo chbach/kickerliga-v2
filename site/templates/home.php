@@ -19,7 +19,7 @@
 			<div class="small-news">
 				<?php $index = 0; foreach ($news as $item): if ($index > 0): ?> 
 				<a class="news-item" href="<?php echo $item->url() ?>">
-					<time class="news-item__time"><?php echo $item->date("d.m.Y") ?></time>
+					<time datetime="<?php echo $item->date(DATE_W3C); ?>" class="news-item__time"><?php echo $item->date("d.m.Y") ?></time>
 					<h2 class="news-item__heading"><?php echo $item->title() ?></h2>
 				</a>
 				<?php endif; $index++; endforeach; ?>

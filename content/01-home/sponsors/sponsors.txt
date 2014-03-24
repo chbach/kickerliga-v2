@@ -19,6 +19,6 @@ paderbowling.png:
 tuba.png:
 	url: http://www.tuba-paderborn.de/
 runners-point.png:
-	url: http://www.runnerspoint.com/filialen/filial-detailseite/?StoreId=670"
+	url: http://www.runnerspoint.com/filialen/filial-detailseite/?StoreId=670
 meyerbeer.png: 
 	url: http://www.meyerbeer.de
