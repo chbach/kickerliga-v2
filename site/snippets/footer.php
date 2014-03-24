@@ -15,6 +15,5 @@
   ga('send', 'pageview');
 
 </script>
-<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700,300' rel='stylesheet' type='text/css'>
 </body>
 </html>

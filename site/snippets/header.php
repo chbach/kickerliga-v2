@@ -11,6 +11,7 @@
 	<link rel="icon" type="image/x-icon" sizes="any" href="http://www.kickerliga-paderborn.de/favicon.ico" />
 
 	<script async src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700,300" rel="stylesheet" type="text/css" media="all" />
 	<?php echo css('assets/css/main.min.css') ?>
 
 </head>
