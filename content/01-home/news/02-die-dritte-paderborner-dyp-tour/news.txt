@@ -8,4 +8,4 @@ Nach einem packenden Masters und einer gelungenen Saison im Wintersemester biete
 
 Jeder ist eingeladen und herzlich willkommen. Die DYP-Tour ist auch eine super Gelegenheit, sich als Neuling am Tisch zu behaupten. Alles weitere dazu findet ihr auf der Event-Page. 
 
-(button: Zum Event class:pure-button-primary url: turniere/DYP-Tour)
+(button: Zum Event class:pure-button-primary url: /turniere/DYP-Tour)

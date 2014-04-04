@@ -62,15 +62,15 @@
 		<h3 class="sponsors__heading">Unterstützer der Kickerliga</h3>
 		<ul class="sponsors__list">
 		<?php 
-			$sponsors = yaml($page->children()->find("sponsors")->sponsors());
-			$images = $page->children()->find("sponsors")->images();
+			$sponsors = yaml($pages->find("partner")->sponsors());
+			$images = $pages->find("partner")->images();
 
 			foreach ($sponsors as $key => $sponsor):
-				$img = $images->find($key);
+				$img = $images->find($sponsor['image']);
 		?>
 			<li class="sponsors__item">
 				<a href="<?php echo $sponsor['url']; ?>" target="_blank">
-				<img src="<?php echo $img->url(); ?>" alt="<?php echo $img->name(); ?>">
+				<?php echo thumb($img, array('height' => 64)); ?>
 				</a>
 			</li>
 		<?php 
