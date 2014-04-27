@@ -77,7 +77,7 @@ class kirbytextExtended extends kirbytext {
       $currentImage =  $page->images()->find($img);
 
       if ($fancybox == "true") {
-        $output .= "<a href=\"".$currentImage->url()."\" class=\"fancybox\" rel=\"".$options['rel']."\""; 
+        $output .= "<a href=\"".$currentImage->url()."\" class=\"fresco\" rel=\"".$options['rel']."\""; 
 
         if (count($titlesArr) > 0 && isset($titlesArr[$key]) && $titlesArr[$key] != "")
            $output .=" title= \"".$titlesArr[$key]."\" ";

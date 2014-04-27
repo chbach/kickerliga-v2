@@ -10,9 +10,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<link rel="icon" type="image/x-icon" sizes="any" href="http://www.kickerliga-paderborn.de/favicon.ico" />
 
-	<script async src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+	<?php echo js("assets/js/jquery.tooltipster.min.js") ?>
+	<?php echo js("assets/js/fresco.js") ?>
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700,300" rel="stylesheet" type="text/css" media="all" />
-	<?php echo css('assets/css/main.min.css') ?>
+	<?php echo css("assets/css/fresco/fresco.css") ?>
+	<?php echo css("assets/css/main.min.css") ?>
 
 </head>
 

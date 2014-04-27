@@ -30,9 +30,10 @@
 		    	</thead>
 		    	<tbody>
 		    	<?php foreach ($table as $index => $team): ?>
+		    	<?php $imgUrl = "http://tabelle.kickerliga-paderborn.de/photos/".$team->photo; ?>
 		    	<tr <?php if ($index == 9): ?>class="double-border"<?php endif; ?>>
 		    		<td><?php echo $index+1 ?>.</td>
-		    		<td><?php echo $team->name ?></td>
+		    		<td><a class="tooltip fresco" <?php if (str::trim($team->photo) && file_exists($imgUrl)): ?> href="<?php echo $imgUrl ?>" data-fresco-group="teams" data-fresco-caption="<?php echo $team->members ?>"<?php endif; ?> title="<?php echo $team->members ?>"><?php echo $team->name ?></a></td>
 		    		<td class="acenter"><?php echo $team->num_matches; ?></td>
 		    		<td class="acenter"><?php echo $team->num_matches_won; ?></td>
 		    		<td class="pure-hidden-phone acenter">

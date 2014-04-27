@@ -15,5 +15,8 @@
   ga('send', 'pageview');
 
 </script>
+<script>
+$(document).ready(function() { $('.tooltip').tooltipster(); });
+</script>
 </body>
 </html>

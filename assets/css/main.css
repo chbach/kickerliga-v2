@@ -1334,6 +1334,278 @@ a.pure-button-selected {
   border-bottom-width: 0;
 }
 
+/* This is the default Tooltipster theme (feel free to modify or duplicate and create multiple themes!): */
+
+.tooltipster-default {
+  color: #fff;
+  background: #4c4c4c;
+  border: 2px solid #000;
+  border-radius: 5px;
+}
+
+/* Use this next selector to style things like font-size and line-height: */
+
+.tooltipster-default .tooltipster-content {
+  padding: 8px 10px;
+  overflow: hidden;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+/* This next selector defines the color of the border on the outside of the arrow. This will automatically match the color and size of the border set on the main tooltip styles. Set display: none; if you would like a border around the tooltip but no border around the arrow */
+
+.tooltipster-default .tooltipster-arrow .tooltipster-arrow-border {
+  /* border-color: ... !important; */
+}
+
+/* If you're using the icon option, use this next selector to style them */
+
+.tooltipster-icon {
+  margin-left: 4px;
+  cursor: help;
+}
+
+/* This is the base styling required to make all Tooltipsters work */
+
+.tooltipster-base {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 9999999;
+  width: auto;
+  padding: 0;
+  overflow: visible;
+  font-size: 0;
+  line-height: 0;
+  pointer-events: none;
+}
+
+.tooltipster-base .tooltipster-content {
+  overflow: hidden;
+}
+
+/* These next classes handle the styles for the little arrow attached to the tooltip. By default, the arrow will inherit the same colors and border as what is set on the main tooltip itself. */
+
+.tooltipster-arrow {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.tooltipster-arrow span,
+.tooltipster-arrow-border {
+  position: absolute;
+  display: block;
+  width: 0;
+  height: 0;
+}
+
+.tooltipster-arrow-top span,
+.tooltipster-arrow-top-right span,
+.tooltipster-arrow-top-left span {
+  bottom: -7px;
+  border-top: 8px solid;
+  border-right: 8px solid transparent !important;
+  border-left: 8px solid transparent !important;
+}
+
+.tooltipster-arrow-top .tooltipster-arrow-border,
+.tooltipster-arrow-top-right .tooltipster-arrow-border,
+.tooltipster-arrow-top-left .tooltipster-arrow-border {
+  bottom: -7px;
+  border-top: 9px solid;
+  border-right: 9px solid transparent !important;
+  border-left: 9px solid transparent !important;
+}
+
+.tooltipster-arrow-bottom span,
+.tooltipster-arrow-bottom-right span,
+.tooltipster-arrow-bottom-left span {
+  top: -7px;
+  border-right: 8px solid transparent !important;
+  border-bottom: 8px solid;
+  border-left: 8px solid transparent !important;
+}
+
+.tooltipster-arrow-bottom .tooltipster-arrow-border,
+.tooltipster-arrow-bottom-right .tooltipster-arrow-border,
+.tooltipster-arrow-bottom-left .tooltipster-arrow-border {
+  top: -7px;
+  border-right: 9px solid transparent !important;
+  border-bottom: 9px solid;
+  border-left: 9px solid transparent !important;
+}
+
+.tooltipster-arrow-top span,
+.tooltipster-arrow-top .tooltipster-arrow-border,
+.tooltipster-arrow-bottom span,
+.tooltipster-arrow-bottom .tooltipster-arrow-border {
+  right: 0;
+  left: 0;
+  margin: 0 auto;
+}
+
+.tooltipster-arrow-top-left span,
+.tooltipster-arrow-bottom-left span {
+  left: 6px;
+}
+
+.tooltipster-arrow-top-left .tooltipster-arrow-border,
+.tooltipster-arrow-bottom-left .tooltipster-arrow-border {
+  left: 5px;
+}
+
+.tooltipster-arrow-top-right span,
+.tooltipster-arrow-bottom-right span {
+  right: 6px;
+}
+
+.tooltipster-arrow-top-right .tooltipster-arrow-border,
+.tooltipster-arrow-bottom-right .tooltipster-arrow-border {
+  right: 5px;
+}
+
+.tooltipster-arrow-left span,
+.tooltipster-arrow-left .tooltipster-arrow-border {
+  top: 50%;
+  right: -7px;
+  margin-top: -7px;
+  border-top: 8px solid transparent !important;
+  border-bottom: 8px solid transparent !important;
+  border-left: 8px solid;
+}
+
+.tooltipster-arrow-left .tooltipster-arrow-border {
+  margin-top: -8px;
+  border-top: 9px solid transparent !important;
+  border-bottom: 9px solid transparent !important;
+  border-left: 9px solid;
+}
+
+.tooltipster-arrow-right span,
+.tooltipster-arrow-right .tooltipster-arrow-border {
+  top: 50%;
+  left: -7px;
+  margin-top: -7px;
+  border-top: 8px solid transparent !important;
+  border-right: 8px solid;
+  border-bottom: 8px solid transparent !important;
+}
+
+.tooltipster-arrow-right .tooltipster-arrow-border {
+  margin-top: -8px;
+  border-top: 9px solid transparent !important;
+  border-right: 9px solid;
+  border-bottom: 9px solid transparent !important;
+}
+
+/* Some CSS magic for the awesome animations - feel free to make your own custom animations and reference it in your Tooltipster settings! */
+
+.tooltipster-fade {
+  opacity: 0;
+  -webkit-transition-property: opacity;
+  -ms-transition-property: opacity;
+  transition-property: opacity;
+}
+
+.tooltipster-fade-show {
+  opacity: 1;
+}
+
+.tooltipster-grow {
+  -webkit-transform: scale(0, 0);
+  -ms-transform: scale(0, 0);
+  transform: scale(0, 0);
+  -webkit-transition-property: -webkit-transform;
+  -ms-transition-property: -ms-transform;
+  transition-property: transform;
+  -webkit-backface-visibility: hidden;
+}
+
+.tooltipster-grow-show {
+  -webkit-transform: scale(1, 1);
+  -ms-transform: scale(1, 1);
+  transform: scale(1, 1);
+  -webkit-transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1);
+  -webkit-transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.15);
+  -ms-transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.15);
+  transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.15);
+}
+
+.tooltipster-swing {
+  opacity: 0;
+  -webkit-transform: rotateZ(4deg);
+  -ms-transform: rotateZ(4deg);
+  transform: rotateZ(4deg);
+  -webkit-transition-property: -webkit-transform, opacity;
+  -ms-transition-property: -ms-transform;
+  transition-property: transform;
+}
+
+.tooltipster-swing-show {
+  opacity: 1;
+  -webkit-transform: rotateZ(0deg);
+  -ms-transform: rotateZ(0deg);
+  transform: rotateZ(0deg);
+  -webkit-transition-timing-function: cubic-bezier(0.23, 0.635, 0.495, 1);
+  -webkit-transition-timing-function: cubic-bezier(0.23, 0.635, 0.495, 2.4);
+  -ms-transition-timing-function: cubic-bezier(0.23, 0.635, 0.495, 2.4);
+  transition-timing-function: cubic-bezier(0.23, 0.635, 0.495, 2.4);
+}
+
+.tooltipster-fall {
+  top: 0;
+  -webkit-transition-property: top;
+  -ms-transition-property: top;
+  transition-property: top;
+  -webkit-transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1);
+  -webkit-transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.15);
+  -ms-transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.15);
+  transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.15);
+}
+
+.tooltipster-fall.tooltipster-dying {
+  top: 0 !important;
+  opacity: 0;
+  -webkit-transition-property: all;
+  -ms-transition-property: all;
+  transition-property: all;
+}
+
+.tooltipster-slide {
+  left: -40px;
+  -webkit-transition-property: left;
+  -ms-transition-property: left;
+  transition-property: left;
+  -webkit-transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1);
+  -webkit-transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.15);
+  -ms-transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.15);
+  transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.15);
+}
+
+.tooltipster-slide.tooltipster-dying {
+  left: 0 !important;
+  opacity: 0;
+  -webkit-transition-property: all;
+  -ms-transition-property: all;
+  transition-property: all;
+}
+
+/* CSS transition for when contenting is changing in a tooltip that is still open. The only properties that will NOT transition are: width, height, top, and left */
+
+.tooltipster-content-changing {
+  opacity: 0.5;
+  -webkit-transform: scale(1.1, 1.1);
+  -ms-transform: scale(1.1, 1.1);
+  transform: scale(1.1, 1.1);
+}
+
 @font-face {
   font-family: Batch;
   font-style: normal;
@@ -1438,6 +1710,7 @@ p {
 
 a {
   color: #174489;
+  cursor: pointer;
 }
 
 a:hover {
