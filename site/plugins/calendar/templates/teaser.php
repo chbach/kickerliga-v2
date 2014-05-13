@@ -23,7 +23,7 @@ foreach ($this->events as $event):
 	<li class="termine-small__item<?php echo ($count>=$max) ? ' last' : '';?>">
 		<time  class="termine-small__date" datetime="<?php echo gmdate("Y-m-d\TH:i:s\Z", $begin[0]);?>"><?php echo strftime($this->dateFormat, $begin[0]); ?><?php echo ($end)? ' - '.strftime($this->dateFormat, $end[0]) : ''; ?></time>
 <?php $info = $event->getInfo(); ?>
-		<span class="termine-small__desc"><?php echo $info['Title'] ?></span>	
+		<span class="termine-small__desc"><?php echo $info['title'] ?></span>	
 	</li>
 <?php endif; ?>
 <?php endforeach; ?>
