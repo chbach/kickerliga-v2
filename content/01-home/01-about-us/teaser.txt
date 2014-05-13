@@ -1,20 +1,20 @@
-Title: Über uns
-----
-Teaser: 
+﻿Title: Über uns
 
-# Hi, wir sind die Kickerliga Paderborn!
+----
+
+Teaser: # Hi, wir sind die Kickerliga Paderborn!
 
 Der Treffpunkt rund um den Tischfußball in Paderborn.
 
 (button: Ich will mitmachen url: neu-hier)
-----
-Text: 
 
-## Steckbrief zur Kickerliga
+----
+
+Text: ## Steckbrief zur Kickerliga
 
 * Gründungsjahr: WS 2007/08
 * Gemütliches Kickern und Trinken und Leute kennenlernen
-* 3 Locations: The Mad Hatter, Patrizias Pinte, Paderbowling
+* 3 Locations: The Mad Hatter, Patrizias Pinte, Sketch Cocktailbar
 * Spieltagsdaten: Mo und Di (19 Uhr o. 20 uhr)
 * Spieltage: 7
 * Spiele: 4–5 pro Spieltag

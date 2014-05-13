@@ -1,21 +1,19 @@
-Title: Partner
+﻿Title: Partner
 
 ----
 
-text: Sponsoren und Partner sind wichtige Unterstützer der Kickerliga, ohne die es nicht möglich wäre, die Liga am Laufen zu halten und Turniere zu organisieren. Wir sagen hiermit herzlichen Dank! 
+Text: Sponsoren und Partner sind wichtige Unterstützer der Kickerliga, ohne die es nicht möglich wäre, die Liga am Laufen zu halten und Turniere zu organisieren. Wir sagen hiermit herzlichen Dank!
 
 ----
 
-sponsors: 
-
-- name: Slider Boardshop
+Sponsors: - name: Slider Boardshop
   image: slider.png
   url: http://www.slider-theboardshop.de/
   type: Namenssponsor
 
 - name: MLP
   image: mlp.png
-  url: http://www.mlp-paderborn1.de/
+  url: http://www.mlp-paderborn1.de/kooperationen/kickerliga.cfm
   type: Hauptsponsoren
 
 - name: PaderCopy
@@ -74,4 +72,3 @@ sponsors:
   image: pub.png
   url: http://www.studentenwerk-pb.de/
   type: Locationsponsoren
-

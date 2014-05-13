@@ -28,7 +28,7 @@
 
 			<div class="spieltag">
 				<h3 class="toggle"><?php echo $day ?>. Spieltag</h3>
-				<table class="pure-table pure-table-striped">
+				<table class="pure-table pure-table-striped" style="display: none">
 					<thead>
 					<tr>
 						<th class="w230p">Team 1</th>

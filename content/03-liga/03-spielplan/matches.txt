@@ -1,5 +1,0 @@
-﻿Title: Spielplan (alt)
-
-----
-
-Text: Bitte auf einen Spieltag klicken zum Aufklappen.

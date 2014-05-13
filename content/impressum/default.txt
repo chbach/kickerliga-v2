@@ -29,4 +29,4 @@ Die im Rahmen dieses Angebotes weiterverweisenden externen Links zu Angeboten Dr
 
 ### Google Analytics 
 
-Diese Website verwendet Google Analytics. Klicken Sie bitte (link:http://www.google.com/intl/de/analytics/privacyoverview.html text: hier) um Details über die Nutzung der Daten bei Google einzusehen.
+Diese Website verwendet Google Analytics. Klicken Sie bitte (link:https://www.google.com/intl/de_DE/analytics/learn/privacy.html text: hier) um Details über die Nutzung der Daten bei Google einzusehen.

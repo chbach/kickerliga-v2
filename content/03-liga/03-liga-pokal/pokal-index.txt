@@ -1,0 +1,9 @@
+﻿Title: Liga Pokal
+
+----
+
+Text: Der Liga-Pokal läuft parallel zur Liga und bietet den Teams, die sich nicht über die Top 10 der Liga oder den Gewinn des Liga-Cups qualifizieren, das Schlupfloch noch in die Finals vorzustoßen und um die Meisterschaft mitspielen zu können. Gespielt wird im KO-System, das heißt ein Team scheidet bei einer Niederlage sofort aus.
+
+Es werden jeweils zwei Doppel und zwei Einzel gespielt. Nach drei gewonnen Partien, gewinnt eine Mannschaft und das Match ist beendet. Begegnungen im **Mad Hatter** finden **Montags** statt, im **Sketch und in der Pinte** geht es **Dienstag** an den Tisch. Beginn ist immer **20 Uhr**.
+
+Die Paarungen mit den Spielorten sind unten ersichtlich.

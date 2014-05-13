@@ -1,4 +1,4 @@
-Title: Kickerliga Paderborn
+﻿Title: Kickerliga Paderborn
 
 ----
 
@@ -6,7 +6,7 @@ Author: studylife Paderborn e.V
 
 ----
 
-Description: Sechs Spieltage, drei Locations, 30 Teams, 100 Spieler. Dazu ein großes Eröffnungsturnier und ein riesiges Challenger zum Abschluss. Sei dabei!
+Description: Sechs Spieltage, drei Locations, 27 Teams, 100 Spieler. Dazu ein großes Eröffnungsturnier und die 2. Paderborner Stadtmeisterschaften zum Abschluss. Sei dabei!
 
 ----
 

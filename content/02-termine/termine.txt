@@ -2,7 +2,9 @@
 
 ----
 
-Text: Jeden **Dienstag 17:30-20:00 Uhr offenes Training** in Patrizias Pinte und geht in die FB-Gruppe 
+Text: **Regelmäßige Termine**
+
+Jeden **Montag 19:00-21:00 Foosmonday** im Mad Hatter, jeden **Dienstag 17:30-20:00 Uhr offenes Training / Neulingstraining** in Patrizias Pinte und jeden **Donnerstag 20:00-22:00 (Trick)Shot-Thursday** im Sketch! Um immer "up to date" zu sein geht in die FB-Gruppe 
 (link: https://www.facebook.com/groups/188185721225049/ text: "Kickern in Paderborn")!
 
 Unsere TFC Paderwahn-Mannschaften trainieren natürlich auch immer fleißig:
@@ -10,162 +12,97 @@ Wer Interesse hat, uns über die Schulter zu schauen oder selbst vllt in Zukunft
 
 ----
 
-Events: 03.03.2014:
-    Title: Foosmonday
-    Location: Mad Hatter
-    Desc: 19-21 Uhr freies Spielen
+Events: 29.04.2014:
+  title: 1. Spieltag
+  location: Patrizias Pinte, Sketch, Mad Hatter
+  desc: 20 Uhr - 18 Uhr Anmeldung im Sketch!!!
+05.05.2014:
+  title: 2. Spieltag
+  location: Mad Hatter
+  desc: 20 Uhr
+06.05.2014:
+  title: 2. Spieltag
+  location: Patrizias Pinte, Sketch
+  desc: 20 Uhr
+12.05.2014:
+  title: 1. Pokalrunde
+  location: Mad Hatter
+  desc: 20 Uhr
+13.05.2014:
+  title: 1. Pokalrunde
+  location: Pinte, Sketch
+  desc: 20 Uhr
+19.05.2014:
+  title: 3. Spieltag
+  location: Mad Hatter
+  desc: 20 Uhr
+20.05.2014:
+  title: 3. Spieltag
+  location: Patrizias Pinte, Sketch
+  desc: 20 Uhr
+25.05.2014:
+  title: 'NWTFV-Spieltag #2'
+  location: 
+  desc: 
+26.05.2014:
+  title: 4. Spieltag
+  location: Mad Hatter
+  desc: 20 Uhr
+27.05.2014:
+  title: 4. Spieltag
+  location: Patrizias Pinte, Sketch
+  desc: 20 Uhr
+02.06.2014:
+  title: DYP-Turnier
+  location:
+  desc:
+03.06.2014:
+  title: 2. Pokalrunde
+  location: Sketch, Mad Hatter, Pinte
+  desc: 20 Uhr
+10.06.2014:
+  title: 5. Spieltag
+  location: Sketch, Mad Hatter, Pinte
+  desc: 20 Uhr
+15.06.2014:
+  title: 'NWTFV-Spieltag #3'
+  location: 
+  desc: 
+16.06.2014:
+  title: 6. Spieltag
+  location: Mad Hatter
+  desc: 20 Uhr
+17.06.2014:
+  title: 6. Spieltag
+  location: Patrizias Pinte, Sketch
+  desc: 20 Uhr
+23.06.2014:
+  title: Liga-Cup
+  location: Mad Hatter, Patrizias Pinte
+  desc: 19 Uhr
+24.06.2014:
+  title: Pokalfinal-Runden
+  location: Patrizias Pinte, Sketch
+  desc: 19 Uhr
 
-04.03.2014:
-    Title: Offenes Training
-    Location: Patrizias Pinte
-    Desc: ab 17:30 Uhr
-
-05.03.2014:
-    Title: 3. Einzelturnier
-    Location: Patrizias Pinte
-    Desc: Start 19:00 Uhr (ab jetzt regelmäßig am 1. Mittwoch im Monat + alle 2 Monate am 3. Freitag)
-
-06.03.2014:
-    Title: DYP-Turnier (T4)
-    Location: Ölberg (16)
-    Desc: ab 19:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
-
-10.03.2014:
-    Title: Foosmonday
-    Location: Mad Hatter
-    Desc: 19-21 Uhr freies Spielen
-
-11.03.2014:
-    Title: Neulingstraining
-    Location: Patrizias Pinte
-    Desc: ab 17:30 Uhr
-
-13.03.2014:
-    Title: DYP-Turnier (T5)
-    Location: Sappho
-    Desc: ab 20:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
-
-16.03.2014:
-    Title: ANMELDESTART
-    Location: hier auf dem Portal
-    Desc: ab 19:00 Uhr für LIGA und Eröffnungsturnier (Details -> www.kickerliga-paderborn.de )
-
-16.03.2014.:
-    Title: 1. Spieltag NRW-Liga
-    Location: Patrizias Pinte / LLZ Soest (TFC 2&3)
-    Desc: 11:00 bis 19:00 Uhr (TFC Paderwahn 1 vs. Werne, Bochum 2 und Lünen)
-
-17.03.2014:
-    Title: Foosmonday
-    Location: Mad Hatter
-    Desc: 19-21 Uhr freies Spielen
-
-18.03.2014:
-    Title: DYP-Turnier (T6)
-    Location: Sketch (ehemals Lounge and Peppers)
-    Desc: ab 19:00 Uhr
-
-18.03.2014.:
-    Title: Offenes Training
-    Location: Patrizias Pinte
-    Desc: ab 17:30 Uhr
-
-21.03.2014:
-    Title: 4. Einzelturnier
-    Location: Mad Hatter
-    Desc: Start 19:00 Uhr (vorgezogen, da im April - Karfreitag)
-
-24.03.2014:
-    Title: Foosmonday
-    Location: Mad Hatter
-    Desc: 19-21 Uhr freies Spielen
-
-25.03.2014:
-    Title: Neulingstraining
-    Location: Patrizias Pinte
-    Desc: ab 17:30 Uhr
-
-26.03.2014:
-    Title: DYP-Turnier (T7)
-    Location: Mad Hatter
-    Desc: ab 19:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
-
-31.03.2014:
-    Title: Foosmonday
-    Location: Mad Hatter
-    Desc: 19-21 Uhr freies Spielen
-
-01.04.2014:
-    Title: Offenes Training
-    Location: Patrizias Pinte
-    Desc: ab 17:30 Uhr
-
-02.04.2014:
-    Title: 5. Einzelturnier
-    Location: Patrizias Pinte
-    Desc: Start 19:00 Uhr (regelmäßig am 1. Mittwoch im Monat + alle 2 Monate am 3. Freitag)
-
-03.04.2014:
-    Title: DYP-Turnier (T8)
-    Location: Ölberg (16)
-    Desc: ab 19:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
-
-07.04.2014:
-    Title: DYP-Turnier (T9)
-    Location: Paderbowling
-    Desc: ab 19:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
-
-07.04.2014.:
-    Title: Foosmonday
-    Location: Mad Hatter
-    Desc: 19-21 Uhr freies Spielen
-
-08.04.2014:
-    Title: Neulingstraining
-    Location: Patrizias Pinte
-    Desc: ab 17:30 Uhr
-
-14.04.2014:
-    Title: Foosmonday
-    Location: Mad Hatter
-    Desc: 19-21 Uhr freies Spielen
-
-15.04.2014:
-    Title: Final-DYP (T10)
-    Location: Patrizias Pinte
-    Desc: ab 19:00 Uhr (Details -> https://www.facebook.com/groups/304751846294193/ )
-
-15.04.2014.:
-    Title: Offenes Training
-    Location: Patrizias Pinte
-    Desc: ab 17:30 Uhr
-
-21.04.2014:
-    Title: Foosmonday
-    Location: Mad Hatter
-    Desc: 19-21 Uhr freies Spielen (Ostermontag - entfällt evtl)
-
-22.04.2014:
-    Title: Neulingstraining
-    Location: Patrizias Pinte
-    Desc: ab 17:30 Uhr
-
-25.04.2014:
-    Title: Eröffnungsturnier
-    Location: Gownsmens Pub (Uni)
-    Desc: ab 18:00 Uhr
-
-28.04.2014:
-    Title: Foosmonday
-    Location: Mad Hatter
-    Desc: 19-21 Uhr freies Spielen
-
-29.04.2014:
-    Title: LIGASTART
-    Location: Mad Hatter/Pinte/Sketch/Paderbowling
-    Desc: 18:00 Liga-Start, 19:00 1. Spieltag
+02.07.2014:
+  title: Meisterschaftsfinals
+  location: Patrizias Pinte
+  desc: 19 Uhr
 
 12.07.2014:
-    Title: 2. Stadtm. Paderborn
-    Location: MultiCult am Haxthausenhof 18
-    Desc: Start 11:30 Uhr (Voranmeldung an info@kickerliga-paderborn.de. Weitere Infos über http://www.kickerliga-paderborn.de/turniere/stadtmeisterschaft)
+  title: 2. Paderborner Stadtmeisterschaft
+  location: MultiCult am Haxthausenhof 18
+  desc: Start 11:30 Uhr (Voranmeldung an info@kickerliga-paderborn.de. Weitere Infos über http://www.kickerliga-paderborn.de/turniere/stadtmeisterschaft)
+31.08.2014:
+  title: 'NWTFV-Spieltag #4'
+  location:
+  desc:
+09.11.2014:
+  title: 'NWTFV-Spieltag #5'
+  location: 
+  desc:
+07.12.2014:
+  title: 'NWTFV-Spieltag #6'
+  location: 
+  desc:
