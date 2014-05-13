@@ -7,15 +7,20 @@ Jungens, Die Roundhouse-Kickers und The Perpetual Jellyfishes
 
 ----
 
-Matches: - Location: Mad Hatter oben
+Matches: - Location: Mad Hatter (oben)
   Team1: So nicht!  
   Team2: Helene Fischer Groupies
-  Ergebnis:
+  Ergebnis: 0:3
 
-- Location: Mad Hatter oben
+- Location: Mad Hatter (oben)
   Team1: Xeroplast
   Team2: Lüllich
-  Ergebnis:
+  Ergebnis: 3:0
+
+- Location: Mad Hatter (unten)
+  Team1: Los Schlenzos
+  Team2: Pinshot Power
+  Ergebnis: 3:2
 
 - Location: Patrizias Pinte (Ullrich)
   Team1: Die Daltons
@@ -24,7 +29,7 @@ Matches: - Location: Mad Hatter oben
 
 - Location: Patrizias Pinte (Ullrich)
   Team1: Pony Slaystation
-  Team2: Die 3 Fossgetiere
+  Team2: Die 3 Foosgetiere
   Ergebnis:
 
 - Location: Patrizias Pinte (Leo)
