@@ -15,6 +15,7 @@
 				snippet('matches', array(
 					'title' => $first->title(),
 					'text' => $first->text(),
+					'images' => $first->images(),
 					'matches' => yaml($first->matches()
 				)));
 
