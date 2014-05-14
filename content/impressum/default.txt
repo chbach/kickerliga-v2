@@ -15,6 +15,8 @@ Eingetragener Verein VR 2505 im Vereinsregister Paderborn
 <http://kickerliga-paderborn.de>
 <info@kickerliga-paderborn.de>
 
+Hosted on Uberspace
+
 ### Urheberrecht
 
 Diese Webseiten und deren Inhalte unterliegen dem deutschen Leistungsschutz- und Urheberrecht. Unerlaubte Vervielfältigungen außerhalb der engen Grenzen des UrhG sind ohne die schriftliche Zustimmung von der Kickerliga Paderborn verboten.
