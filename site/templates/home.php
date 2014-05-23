@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 
-<?php 
-	$news = $page->children()->find("news")->children()->flip();
+	<?php 
+	$news = $page->children()->find("news")->children()->visible()->flip();
 	$topNews = $news->first();
 ?>
 
