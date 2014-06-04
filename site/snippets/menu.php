@@ -7,6 +7,7 @@
 			<?php foreach($pages->visible() AS $p): ?>
     		<li <?php echo ($p->isOpen()) ? ' class="active"' : '' ?>><a href="<?php echo $p->url() ?>"><?php echo html($p->title()) ?></a></li>
    		 	<?php endforeach ?>
+		<li><a href="http://anmeldung.kickerliga-paderborn.de">Benutzerbereich</a></li> 
 		</ul>
 	</div>
 </nav>
