@@ -1803,7 +1803,6 @@ li {
   overflow: hidden;
   font-weight: normal;
   text-overflow: ellipsis;
-  white-space: nowrap;
   border-radius: 0.25em;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
