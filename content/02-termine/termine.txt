@@ -4,7 +4,7 @@
 
 Text: **Regelmäßige Termine**
 
-Jeden **Montag 19:00-21:00 Foosmonday** im Mad Hatter, jeden **Dienstag 17:30-20:00 Uhr offenes Training / Neulingstraining** in Patrizias Pinte und jeden **Donnerstag 20:00-22:00 (Trick)Shot-Thursday** im Sketch! Um immer "up to date" zu sein geht in die FB-Gruppe 
+Jeden **Montag 19:00-21:00 Foosmonday** im Mad Hatter, jeden **Dienstag 17:30-20:00 Uhr Offenes Training / Neulingstraining** in Patrizias Pinte und jeden **Donnerstag 20:00-22:00 (Trick)Shot-Thursday** im Sketch! Um immer "up to date" zu sein geht in die FB-Gruppe 
 (link: https://www.facebook.com/groups/188185721225049/ text: "Kickern in Paderborn")!
 
 Unsere TFC Paderwahn-Mannschaften trainieren natürlich auch immer fleißig:
@@ -53,9 +53,9 @@ Events: 29.04.2014:
   location: Patrizias Pinte, Sketch
   desc: 20 Uhr
 02.06.2014:
-  title: DYP-Turnier
-  location:
-  desc:
+  title: Monster-DYP-Turnier
+  location: Mad Hatter
+  desc: 19 Uhr
 03.06.2014:
   title: 2. Pokalrunde
   location: Sketch, Mad Hatter, Pinte
@@ -84,6 +84,10 @@ Events: 29.04.2014:
   title: Pokalfinal-Runden
   location: Patrizias Pinte, Sketch
   desc: 19 Uhr
+27.06.2014:
+  title: WM-Dublin-Monster-DYP-Turnier
+  location: Mad Hatter
+  desc: 18 Uhr - Anmeldung über http://www.studylife.de/eventanmeldung/WM-Dublin-Monster-DYP-111.html
 
 02.07.2014:
   title: Meisterschaftsfinals

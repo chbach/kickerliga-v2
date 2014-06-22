@@ -1,0 +1,24 @@
+﻿Title: 1/4 Finale
+
+----
+
+Text: 
+
+----
+
+Matches: - Location: Patrizias Pinte (Leo) 
+  Team1: Soester Jungs
+  Team2: Die drei Foosgetiere
+  Ergebnis:
+- Location: Patrizias Pinte (Ullrich) 
+  Team1: Locker Flockig 
+  Team2: The Unity
+  Ergebnis:
+- Location: Sketch (Lettner) 
+  Team1: Nullachtfünfzehn 
+  Team2: Bierpause
+  Ergebnis:
+- Location: Sketch (Lehmacher) 
+  Team1: Extended Tresen 
+  Team2: Roundhouse Kickers
+  Ergebnis:
