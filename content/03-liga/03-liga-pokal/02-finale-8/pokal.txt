@@ -1,0 +1,55 @@
+﻿Title: 1/8 Finale
+
+----
+
+Text: 
+
+----
+
+Matches: - Location: Patrizias Pinte (Leo) 
+  Team1: Partisan Pinshot
+  Team2: NullAchtFünfzehn
+  Ergebnis: 2:3
+  Img: pinte-leo.png
+
+- Location: Patrizias Pinte (Leo) 
+  Team1: Locker Flockig!
+  Team2: Die2lustigen3zu4t
+  Ergebnis: 3:1
+  Img: pinte-leo.png
+
+- Location: Patrizias Pinte (Ullrich) 
+  Team1: The Perpetual Jellyfishes
+  Team2: Roundhouse Kickers
+  Ergebnis: 2:3
+  Img: pinte-ull.png
+
+- Location: Patrizias Pinte (Ullrich) 
+  Team1: Extended Tresen
+  Team2: Los Schlenzos
+  Ergebnis: 3:0
+  Img: pinte-ull.png
+
+- Location: Sketch (Lettner)
+  Team1: Balldrian 
+  Team2: Soester Jungens
+  Ergebnis: 0:3
+  Img: sketch-lett.png
+
+- Location: Sketch (Lettner)
+  Team1: The Unity
+  Team2: Xeroplast
+  Ergebnis: 3:0
+  Img: sketch-lett.png
+
+- Location: Sketch (Lehmacher)
+  Team1: MB
+  Team2: Die drei Foosgetiere
+  Ergebnis: 2:3
+  Img: sketch-lehm.png
+
+- Location: Sketch (Lehmacher)
+  Team1: Helene Fischer Groupies 
+  Team2: Bierpause
+  Ergebnis: 1:3
+  Img: sketch-lehm.png

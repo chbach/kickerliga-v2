@@ -1,4 +1,4 @@
-# Kirby .htaccess
+rby .htaccess
 
 # rewrite rules
 <IfModule mod_rewrite.c>
@@ -49,3 +49,4 @@ RewriteRule ^(.*) index.php [L]
 # AddDefaultCharset UTF-8
 #
 # php_flag short_open_tag on 
+

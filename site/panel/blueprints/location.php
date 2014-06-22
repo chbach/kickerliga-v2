@@ -23,3 +23,10 @@ fields:
     label: Text
     type:  textarea
     size:  large
+  sidebar: 
+  	label: Sidebar
+  	type: textarea
+  	size: medium
+  latlng:
+    label: Latitude/Longitude
+    type: text

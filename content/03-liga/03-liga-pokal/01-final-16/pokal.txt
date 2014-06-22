@@ -28,39 +28,47 @@ Matches: - Location: Mad Hatter (oben)
 - Location: Patrizias Pinte (Ullrich)
   Team1: Die Daltons
   Team2: Extended Tresen
-  Ergebnis:
+  Ergebnis: 0:3
+  Img: pinte-ull.png
 
 - Location: Patrizias Pinte (Ullrich)
   Team1: Pony Slaystation
   Team2: Die 3 Foosgetiere
-  Ergebnis:
+  Ergebnis: 0:3
+  Img: pinte-ull.png
 
 - Location: Patrizias Pinte (Leo)
   Team1: RIP Fettlord
   Team2: Bierpause
-  Ergebnis:
+  Ergebnis: 0:3
+  Img: pinte-leo.png
 
 - Location: Patrizias Pinte (Leo)
   Team1: 3 Schnitzel und 1 Halleluja
   Team2: Locker Flockig!
-  Ergebnis:
+  Ergebnis: 1:3
+  Img: pinte-leo.png
 
 - Location: Sketch (Lehmacher)
   Team1: Thor 4.0
   Team2: Die2lustigen3zu4t
-  Ergebnis:
+  Ergebnis: 1:3
+  Img: sketch-lehm.png
 
 - Location: Sketch (Lehmacher)
   Team1: Partisan Pinshot
   Team2: Die Tische
-  Ergebnis:
+  Ergebnis: 3:2
+  Img: sketch-lehm.png
 
 - Location: Sketch (Lettner)
   Team1: Die Blockwürste
   Team2: MB
-  Ergebnis:
+  Ergebnis: 2:3
+  Img: sketch-lett.png
 
 - Location: Sketch (Lettner)
   Team1: Tsubasa Wakabayashi 
   Team2: NullAchtFünfZehn
-  Ergebnis:
+  Ergebnis: 0:3
+  Img: sketch-lett.png
