@@ -1,0 +1,11 @@
+Title: Sommersemester 2014
+----
+Events:
+
+- winner: Soester Jungens
+  name: Liga Pokal
+  img: soest.jpg
+
+- winner: So nicht!
+  name: Liga Cup
+  img: sonicht.jpg
