@@ -1799,6 +1799,22 @@ li {
   position: relative;
 }
 
+.account-link {
+  position: absolute;
+  top: 0.5em;
+  right: 0;
+  color: #666666;
+}
+
+.account-link a {
+  color: #666666;
+  text-decoration: none;
+}
+
+.account-link a:hover {
+  color: #174489;
+}
+
 .pure-button {
   overflow: hidden;
   font-weight: normal;
