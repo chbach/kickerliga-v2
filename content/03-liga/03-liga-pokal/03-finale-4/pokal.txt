@@ -9,16 +9,16 @@ Text:
 Matches: - Location: Patrizias Pinte (Leo) 
   Team1: Soester Jungs
   Team2: Die drei Foosgetiere
-  Ergebnis:
+  Ergebnis: 3:2
 - Location: Patrizias Pinte (Ullrich) 
   Team1: Locker Flockig 
   Team2: The Unity
-  Ergebnis:
+  Ergebnis: 1:3
 - Location: Sketch (Lettner) 
   Team1: Nullachtfünfzehn 
   Team2: Bierpause
-  Ergebnis:
+  Ergebnis: 0:3
 - Location: Sketch (Lehmacher) 
   Team1: Extended Tresen 
   Team2: Roundhouse Kickers
-  Ergebnis:
+  Ergebnis: 0:3
