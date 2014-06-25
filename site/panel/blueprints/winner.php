@@ -2,8 +2,8 @@
 
 # default blueprint
 
-title: Page
-pages: true
+title: Winner
+pages: false
 files: true
 fields:
   title:

@@ -2,7 +2,7 @@
 
 # default blueprint
 
-title: Page
+title: Fame
 pages: true
 files: true
 fields:
