@@ -1,0 +1,43 @@
+.img-list__season-title {
+	margin-bottom: -1em;
+	border-bottom: 1px solid @border-color;
+}
+
+a.img-list__item {
+	overflow: hidden;
+	position: relative;
+	text-decoration: none;
+	width: 100%;
+	display: block;
+	padding-top: 210px;
+	transition: all 250ms ease;
+
+	&:hover {
+		padding-top: 215px;
+		.img-list__img {
+			transform: scale(1.10)
+		}
+	}
+}
+
+.img-list__img {
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+	transition: all 250ms ease;
+	margin-bottom: 0.5em;
+	position: absolute;
+	width: 100%;
+	top: 0;
+}
+
+.img-list__title {
+	color: @purple;
+	font-weight: bold;
+	display: block;
+}
+
+.img-list__subtitle {
+	text-transform: uppercase;
+	font-size: 0.85em;
+}

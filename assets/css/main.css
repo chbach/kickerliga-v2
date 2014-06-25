@@ -2425,6 +2425,56 @@ a.pure-button-selected:hover {
   box-sizing: border-box;
 }
 
+.img-list__season-title {
+  margin-bottom: -1em;
+  border-bottom: 1px solid #dddddd;
+}
+
+a.img-list__item {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding-top: 210px;
+  overflow: hidden;
+  text-decoration: none;
+  -webkit-transition: all 250ms ease;
+  transition: all 250ms ease;
+}
+
+a.img-list__item:hover {
+  padding-top: 215px;
+}
+
+a.img-list__item:hover .img-list__img {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.img-list__img {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 200px;
+  margin-bottom: 0.5em;
+  background-position: center;
+  -webkit-background-size: cover;
+  background-size: cover;
+  -webkit-transition: all 250ms ease;
+  transition: all 250ms ease;
+}
+
+.img-list__title {
+  display: block;
+  font-weight: bold;
+  color: #8c0c97;
+}
+
+.img-list__subtitle {
+  font-size: 0.85em;
+  text-transform: uppercase;
+}
+
 /* ==============================
 	PHONES
 ============================== */
