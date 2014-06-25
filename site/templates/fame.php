@@ -15,7 +15,7 @@
 		<?php if ($img): ?>
 		<div class="pure-u-1-3 l-box">
 			<a class="img-list__item fresco" href="<?php echo $img->url() ?>" data-fresco-group="teams" data-fresco-caption="<?php echo $event['name'] ?>: <?php echo $event['winner'] ?>">
-				<div class="img-list__img" style="background-image:url(<?php echo $img->url() ?>)" alt="<?php echo $event['name'] ?>"></div>
+				<div class="img-list__img" style="background-image:url(<?php echo thumb($img, array('width' => 640), false) ?>)" alt="<?php echo $event['name'] ?>"></div>
 				<strong class="img-list__title"><?php echo $event['winner'] ?></strong>
 				<span class="img-list__subtitle"><?php echo $event['name'] ?></span>
 			</a>
