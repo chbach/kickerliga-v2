@@ -16,7 +16,13 @@
 		?>
 		<?php if ($img): ?>
 		<div class="pure-u-1-3 l-box">
-			<a class="img-list__item fresco" href="<?php echo $img->url() ?>" data-fresco-group="<?php echo $event['images'] ?>" data-fresco-caption="<?php if (array_key_exists($img->filename, $captions)) { echo $captions[$img->filename()]; } ?>">
+			<a 
+				class="img-list__item fresco" 
+				href="<?php echo $img->url() ?>" 
+				data-fresco-group="<?php echo $event['images'] ?>" 
+				data-fresco-caption="<?php if (array_key_exists($img->filename, $captions)) { echo $captions[$img->filename()]; } ?>"
+				data-fresco-group-options="ui: 'inside'"
+			>
 				<div class="img-list__img" style="background-image:url(<?php echo thumb($img, array('width' => 640), false) ?>)" alt="<?php echo $event['name'] ?>"></div>
 				<strong class="img-list__title"><?php echo $event['winner'] ?></strong>
 				<span class="img-list__subtitle"><?php echo $event['name'] ?></span>
@@ -26,7 +32,13 @@
 			$i = 0;
 			foreach ($images as $image): ?>
 				<?php if ($i > 0): ?>
-				<a href="<?php echo $image->url(); ?>" class="fresco" data-fresco-group="<?php echo $event['images'] ?>" data-fresco-caption="<?php if (array_key_exists($image->filename, $captions)) { echo $captions[$image->filename()]; } ?>"><?php echo $i ?></a>
+				<a 
+					href="<?php echo $image->url(); ?>" 
+					class="fresco" 
+					data-fresco-group="<?php echo $event['images'] ?>" 
+					data-fresco-caption="<?php if (array_key_exists($image->filename, $captions)) { echo $captions[$image->filename()]; } ?>"
+					data-fresco-group-options="ui: 'inside'"
+				><?php echo $i ?></a>
 				<?php endif; $i++; ?>
 			<?php endforeach; ?>
 			</div>
