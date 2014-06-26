@@ -10,15 +10,26 @@
 		<?php 
 		$events = yaml($season->events);
 		foreach ($events as $event): 
-			$img = $season->images()->find($event['img']);
+			$captions = $event['captions'];
+			$images = $season->children()->find($event['images'])->images();
+			$img = $images->first();
 		?>
 		<?php if ($img): ?>
 		<div class="pure-u-1-3 l-box">
-			<a class="img-list__item fresco" href="<?php echo $img->url() ?>" data-fresco-group="teams" data-fresco-caption="<?php echo $event['name'] ?>: <?php echo $event['winner'] ?>">
+			<a class="img-list__item fresco" href="<?php echo $img->url() ?>" data-fresco-group="<?php echo $event['images'] ?>" data-fresco-caption="<?php if (array_key_exists($img->filename, $captions)) { echo $captions[$img->filename()]; } ?>">
 				<div class="img-list__img" style="background-image:url(<?php echo thumb($img, array('width' => 640), false) ?>)" alt="<?php echo $event['name'] ?>"></div>
 				<strong class="img-list__title"><?php echo $event['winner'] ?></strong>
 				<span class="img-list__subtitle"><?php echo $event['name'] ?></span>
 			</a>
+			<div class="hidden">
+			<?php 
+			$i = 0;
+			foreach ($images as $image): ?>
+				<?php if ($i > 0): ?>
+				<a href="<?php echo $image->url(); ?>" class="fresco" data-fresco-group="<?php echo $event['images'] ?>" data-fresco-caption="<?php if (array_key_exists($image->filename, $captions)) { echo $captions[$image->filename()]; } ?>"><?php echo $i ?></a>
+				<?php endif; $i++; ?>
+			<?php endforeach; ?>
+			</div>
 		</div>
 		<?php endif; ?>
 		<?php endforeach; ?>
