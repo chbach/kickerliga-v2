@@ -1815,6 +1815,18 @@ li {
   color: #174489;
 }
 
+@media (max-width: 767px) {
+  .account-link.l-box {
+    position: static;
+    display: block;
+    width: 100%;
+    padding-top: 0.75em !important;
+    margin: 0 0 .75em 0;
+    text-align: center;
+    border-top: 1px solid #dddddd;
+  }
+}
+
 .hidden {
   display: none;
 }
