@@ -6,19 +6,19 @@ Text:
 
 ----
 
-Matches: - Location: Patrizias Pinte (Leo) 
-  Team1: Soester Jungs
-  Team2: Die drei Foosgetiere
-  Ergebnis: 3:2
-- Location: Patrizias Pinte (Ullrich) 
-  Team1: Locker Flockig 
-  Team2: The Unity
-  Ergebnis: 1:3
-- Location: Sketch (Lettner) 
-  Team1: Nullachtfünfzehn 
-  Team2: Bierpause
-  Ergebnis: 0:3
-- Location: Sketch (Lehmacher) 
-  Team1: Extended Tresen 
-  Team2: Roundhouse Kickers
-  Ergebnis: 0:3
+Matches: - Location: Mad Hatter (Leo oben)
+  Team1: Die Fudler
+  Team2: Die Peng-Gurus
+  Ergebnis: 
+- Location: Mad Hatter (Lettner)
+  Team1: Unituy
+  Team2: 2 Beerkings and a Beervirgin
+  Ergebnis: 
+- Location: Mad Hatter (Lehmacher)
+  Team1: Hubba Bubba
+  Team2: Den hab ich
+  Ergebnis: 
+- Location: Mad Hatter (Leo unten)
+  Team1: In Memoriam
+  Team2: Don't Hassel the Hoff
+  Ergebnis:

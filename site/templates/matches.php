@@ -23,7 +23,7 @@
 				$odd_or_even = ('odd' == $odd_or_even) ? 'even' : 'odd';
 			?>
 
-			<?php if ($day != $match->day):	$day = $match->day;?>
+			<?php if ($day != $match->day):	$day = $match->day; $location = ""; ?>
 			<?php if ($day > 1): ?> </tbody></table></div><?php endif; ?>
 
 			<div class="spieltag">

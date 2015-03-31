@@ -3,7 +3,7 @@
 # default blueprint
 
 title: Winner
-pages: false
+pages: true
 files: true
 fields:
   title:

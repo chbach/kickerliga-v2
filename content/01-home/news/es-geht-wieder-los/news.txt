@@ -1,0 +1,11 @@
+﻿Title: Es geht wieder los
+
+----
+
+Date: 2014-09-18
+
+----
+
+Text: Wir starten in die 15. Saison der Slider Kickerliga Paderborn und ihr könnt euch jetzt schon für die Liga anmelden. Auf ein weiteres Semester voll von spannenden und spaßigen Partien in der Kneipenszene Paderborns. Ihr benötigt für die Anmeldung einen Benutzeraccount (oben auf Benutzerbereich klicken).
+
+(button: Zur Liga-Anmeldung url:https://anmeldung.kickerliga-paderborn.de/events/54188c456163616e08000000 class: pure-button-primary)

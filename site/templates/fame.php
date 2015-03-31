@@ -19,7 +19,7 @@
 			<a 
 				class="img-list__item fresco" 
 				href="<?php echo $img->url() ?>" 
-				data-fresco-group="<?php echo $event['images'] ?>" 
+				data-fresco-group="<?php echo $event['images']."-".$season->uid() ?>" 
 				data-fresco-caption="<?php if (array_key_exists($img->filename, $captions)) { echo $captions[$img->filename()]; } ?>"
 				data-fresco-group-options="ui: 'inside'"
 			>
@@ -35,7 +35,7 @@
 				<a 
 					href="<?php echo $image->url(); ?>" 
 					class="fresco" 
-					data-fresco-group="<?php echo $event['images'] ?>" 
+					data-fresco-group="<?php echo $event['images']."-".$season->uid() ?>" 
 					data-fresco-caption="<?php if (array_key_exists($image->filename, $captions)) { echo $captions[$image->filename()]; } ?>"
 					data-fresco-group-options="ui: 'inside'"
 				><?php echo $i ?></a>

@@ -8,11 +8,11 @@ Text:
 
 Matches: 1:
 	Location:Patrizias Pinte-Leo Pro
-	Team1: Padertech oder The Daltons
-	Team2: Abschussgefahr oder The Unity
-	Ergebnis:
+	Team1: The Unity
+	Team2: Bierpause
+	Ergebnis: 3:2
 2:
 	Location:Patrizias Pinte-Ullrich
-	Team1: J@s oder 3d
-	Team2: Master of the Universe oder Toyphil and Friends
-	Ergebnis:
+	Team1: Soester Jungs
+	Team2: Roundhouse Kickers
+	Ergebnis: 3:1

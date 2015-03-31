@@ -1,4 +1,4 @@
-﻿Title: 1/8 Finale
+﻿Title: Finale
 
 ----
 
@@ -7,42 +7,14 @@ Text:
 ----
 
 Matches: 1:
-	Location: Paderbowling-Leo Pro
-	Team1: Abschussgefahr!!!
-	Team2: The Perpetual Jellyfishes
-	Ergebnis:4:0
+  Location:Finale
+  Team1: Soester Jungs
+  Team2: The Unity
+  Ergebnis: 3:0
+  Img: finale.png
+
 2:
-	Location: Paderbowling-Leo Pro
-	Team1: Drei Engel für Dragi
-	Team2: J@s
-	Ergebnis:0:4
-3:
-	Location: Paderbowling-Leo Pro
-	Team1: Balldrian
-	Team2: Masters of the Universe
-	Ergebnis:1:3
-4:
-	Location: Patrizias Pinte-Ullrich
-	Team1: Extended Mind Reloaded
-	Team2: The Daltons
-	Ergebnis:1:3
-5:
-	Location: Patrizias Pinte-Ullrich
-	Team1: The Unity
-	Team2: Dong & Dong
-	Ergebnis:4:0
-6:
-	Location: Patrizias Pinte-Ullrich
-	Team1: ???
-	Team2: 3D
-	Ergebnis:1:3
-7:
-	Location: Patrizias Pinte-Leo Pro
-	Team1: Toyphil and Friends
-	Team2: PinInEcken
-	Ergebnis:4:0
-8:
-	Location: Patrizias Pinte-Leo Pro
-	Team1: Thor 3.0
-	Team2: Padertech
-	Ergebnis:2:2<br>Sätze 4:4 Tore 26:27
+  Location:Spiel um Platz 3
+  Team1: Bierpause
+  Team2: Roundhouse Kickers
+  Ergebnis: 3:1

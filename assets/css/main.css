@@ -1932,8 +1932,8 @@ a.pure-button-selected:hover {
 }
 
 .main-nav__logo img {
-  height: 4em;
-  margin: 0.5em 0;
+  height: 72px;
+  margin: 0.25em 0 0 0;
 }
 
 .main-nav__links {

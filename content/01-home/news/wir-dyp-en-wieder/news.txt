@@ -1,0 +1,13 @@
+﻿Title: Wir DYP’en wieder!
+
+----
+
+Date: 2014-08-07
+
+----
+
+Text: Nach der sensationellen Stadtmeisterschaft darf nun auch in den Ferien wieder kräftig gekickert werden! Wir starten mit der vierten DYP-Tour in Paderborn.
+
+Jeder ist eingeladen und herzlich willkommen. Die DYP-Tour ist auch eine super Gelegenheit, sich als Neuling am Tisch zu behaupten. Alles weitere dazu findet ihr auf der Event-Page. 
+
+(button: Zum Event class:pure-button-primary url: /turniere/DYP-Tour)

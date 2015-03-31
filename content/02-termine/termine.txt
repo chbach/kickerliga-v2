@@ -2,111 +2,148 @@
 
 ----
 
-Text: **Regelmäßige Termine**
+Text: **Wöchentliche Termine**
 
-Jeden **Montag 19:00-21:00 Foosmonday** im Mad Hatter, jeden **Dienstag 17:30-20:00 Uhr Offenes Training / Neulingstraining** in Patrizias Pinte und jeden **Donnerstag 20:00-22:00 (Trick)Shot-Thursday** im Sketch! Um immer "up to date" zu sein geht in die FB-Gruppe 
+**MO, ab 19:00 Uhr
+FOOSMONDAY** im Mad Hatter
+
+**DI, 17:30-20:00 Uhr
+Offenes Training / Neulingstraining** in Patrizias Pinte [unger. KW - Neulinge, ger. KW - Offenes]
+
+**DO, ab 19:30 Uhr
+Tournament Thursday** im Mad Hatter [Turniere siehe Terminkalender]
+
+Um immer "up to date" zu sein geht in die FB-Gruppe 
 (link: https://www.facebook.com/groups/188185721225049/ text: "Kickern in Paderborn")!
 
-Unsere TFC Paderwahn-Mannschaften trainieren natürlich auch immer fleißig:
-Wer Interesse hat, uns über die Schulter zu schauen oder selbst vllt in Zukunft einzusteigen, kann gern **Mittwochs von 18-20 Uhr oder Samstags von ca. 17-20 Uhr** in Patrizias Pinte vorbeischauen. Ihr seid herzlich willkommen!
+Unsere 4 TFC Paderwahn-Mannschaften trainieren natürlich auch immer fleißig:
+Wer Interesse hat, uns über die Schulter zu schauen oder selbst vllt in Zukunft einzusteigen, kann gern **Mittwochs von 18-20 Uhr** in Patrizias Pinte oder **Samstags 17-20 Uhr** im Mad Hatter vorbeischauen. Ihr seid herzlich willkommen!
 
 ----
 
-Events: 29.04.2014:
-  title: 1. Spieltag
-  location: Patrizias Pinte, Sketch, Mad Hatter
-  desc: 20 Uhr - 18 Uhr Anmeldung im Sketch!!!
-05.05.2014:
-  title: 2. Spieltag
-  location: Mad Hatter
-  desc: 20 Uhr
-06.05.2014:
-  title: 2. Spieltag
-  location: Patrizias Pinte, Sketch
-  desc: 20 Uhr
-12.05.2014:
-  title: 1. Pokalrunde
-  location: Mad Hatter
-  desc: 20 Uhr
-13.05.2014:
-  title: 1. Pokalrunde
-  location: Pinte, Sketch
-  desc: 20 Uhr
-19.05.2014:
-  title: 3. Spieltag
-  location: Mad Hatter
-  desc: 20 Uhr
-20.05.2014:
-  title: 3. Spieltag
-  location: Patrizias Pinte, Sketch
-  desc: 20 Uhr
-25.05.2014:
-  title: 'NWTFV-Spieltag #2'
-  location: 
-  desc: 
-26.05.2014:
-  title: 4. Spieltag
-  location: Mad Hatter
-  desc: 20 Uhr
-27.05.2014:
-  title: 4. Spieltag
-  location: Patrizias Pinte, Sketch
-  desc: 20 Uhr
-02.06.2014:
-  title: Monster-DYP-Turnier
-  location: Mad Hatter
-  desc: 19 Uhr
-03.06.2014:
-  title: 2. Pokalrunde
-  location: Sketch, Mad Hatter, Pinte
-  desc: 20 Uhr
-10.06.2014:
-  title: 5. Spieltag
-  location: Sketch, Mad Hatter, Pinte
-  desc: 20 Uhr
-15.06.2014:
-  title: 'NWTFV-Spieltag #3'
-  location: 
-  desc: 
-16.06.2014:
-  title: 6. Spieltag
-  location: Mad Hatter
-  desc: 20 Uhr
-17.06.2014:
-  title: 6. Spieltag
-  location: Patrizias Pinte, Sketch
-  desc: 20 Uhr
-23.06.2014:
-  title: Liga-Cup
-  location: Mad Hatter, Patrizias Pinte
-  desc: 19 Uhr
-24.06.2014:
-  title: Pokalfinal-Runden
-  location: Patrizias Pinte, Sketch
-  desc: 19 Uhr
-27.06.2014:
-  title: WM-Dublin-Monster-DYP-Turnier
-  location: Mad Hatter
-  desc: 18 Uhr - Anmeldung über http://www.studylife.de/eventanmeldung/WM-Dublin-Monster-DYP-111.html
+Events: 03.03.2015:
+  title: Monster-DYP
+  location: Patrizias Pinte 
+  desc: 19:30 Uhr
 
-02.07.2014:
-  title: Meisterschaftsfinals
-  location: Patrizias Pinte
-  desc: 19 Uhr
+12.03.2015:
+  title: Goalie-War-Turnier
+  location: Mad Hatter
+  desc: 19:30 Uhr
 
-12.07.2014:
-  title: 2. Paderborner Stadtmeisterschaft
-  location: MultiCult am Haxthausenhof 18
-  desc: Start 11:30 Uhr (Voranmeldung an info@kickerliga-paderborn.de. Weitere Infos über http://www.kickerliga-paderborn.de/turniere/stadtmeisterschaft)
-31.08.2014:
-  title: 'NWTFV-Spieltag #4'
-  location:
-  desc:
-09.11.2014:
-  title: 'NWTFV-Spieltag #5'
-  location: 
-  desc:
-07.12.2014:
-  title: 'NWTFV-Spieltag #6'
-  location: 
-  desc:
+15.03.2015:
+  title: NRW Liga (1. TFC Spieltag)
+
+17.03.2015:
+  title: Monster-DYP
+  location: Mad Hatter
+  desc: 19:30 Uhr
+
+26.03.2015:
+  title: Einzel-Turnier
+  location: Mad Hatter
+  desc: 19:30 Uhr
+
+02.04.2015:
+  title: Monster-DYP
+  location: Mad Hatter 19:30 Uhr
+  desc: Außerhalb der Turnierserie
+
+10.04.2015:
+  title: MONSTER-Abschluss-DYP
+  location: Mad Hatter
+  desc: 19:30 Uhr
+
+21.04.2015:
+  title: Saisonstart
+  location: Mad Hatter
+  desc: 18:00 Uhr
+
+
+27.04.2015:
+  title: 2.Spieltag
+  location: Mad Hatter
+  desc: 19:00 Uhr
+
+28.04.2015:
+  title: 2.Spieltag
+  location: Mad Hatter / Boot Music Club
+  desc: 19:00 Uhr
+
+03.05.2015:
+  title: NRW Liga (2. TFC Spieltag)
+
+04.05.2015:
+  title: Pokal (1. Runde)
+
+05.05.2015:
+  title: Pokal (1. Runde)
+
+08.05.2015:
+  title: Eröffnungstunier
+  location: Uni Grill|Cafe
+  desc: 18:00 Uhr
+
+11.05.2015:
+  title: 3.Spieltag
+  location: Mad Hatter
+  desc: 19:00 Uhr
+
+12.05.2015:
+  title: 3.Spieltag
+  location: Mad Hatter / Boot Music Club
+  desc: 19:00 Uhr
+
+18.05.2015:
+  title: 4.Spieltag
+  location: Mad Hatter
+  desc: 19:00 Uhr
+
+19.05.2015:
+  title: 4.Spieltag
+  location: Mad Hatter / Boot Music Club
+  desc: 19:00 Uhr
+
+31.05.2015:
+  title: NRW Liga (3. TFC Spieltag)
+
+01.06.2015:
+  title: Pokal (2. Runde)
+
+02.06.2015:
+  title: Monster-Dyp
+  location: Boot - Music Club
+
+08.06.2015:
+  title: 5.Spieltag
+  location: Mad Hatter
+  desc: 19:00 Uhr
+
+09.06.2015:
+  title: 5.Spieltag
+  location: Mad Hatter / Boot Music Club
+  desc: 19:00 Uhr
+
+15.06.2015:
+  title: 6.Spieltag
+  location: Mad Hatter
+  desc: 19:00 Uhr
+
+16.06.2015:
+  title: 6.Spieltag
+  location: Mad Hatter / Boot Music Club
+  desc: 19:00 Uhr
+
+22.06.2015:
+  title: Liga-Cup (Finale)
+
+23.06.2015:
+  title: Pokal (Finale)
+
+03.07.2015:
+  title: Finals
+  location: MadHatter
+
+18.07.2015:
+  title: Stadtmeisterschaften
+  location: MultiCult

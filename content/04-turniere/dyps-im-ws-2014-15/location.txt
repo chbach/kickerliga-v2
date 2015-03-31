@@ -1,0 +1,35 @@
+﻿Title: DYPs im WS 2014/15
+
+----
+
+Time: WS 2014/15
+
+----
+
+Location: The Mad Hatter Paderborn
+
+----
+
+Teaser: # DYPs im Wintersemester
+Jeder kann mitmachen!
+
+----
+
+Text: In der Woche des 24. Novembers findet die zweite Pokalrunde statt und daher werden einige von euch spielfrei haben. Um der Sucht dennoch nachgehen zu können, haben wir ein MONSTER-DYP für euch vorbereitet. 
+
+Am 19.12. haben wir außerdem wieder unsere **MONSTER-WEIHNACHTS-DYP-FEIER** für euch am Start. Es wird wieder Glühwein, Feuerzangenbowle und ein Buffet geben. Jetzt schnell anmelden!
+
+(button: Monster-DYP url: https://www.facebook.com/events/1007642092595103/ class:pure-button-primary) (button: Weihnachts-DYP url: https://anmeldung.kickerliga-paderborn.de/events/5460b94661636151f5010000)
+
+### Termine im Überblick
+
+- 24.11. 19:00 Uhr, Mad Hatter – **MONSTER-DYP** (ohne Voranmeldung)
+- 19.12. 18:00 Uhr, Mad Hatter – **MONSTER-WEIHNACHTS-DYP-FEIER** (mit Anmeldung)
+
+----
+
+Sidebar: 
+
+----
+
+Latlng: 51.718921, 8.757509

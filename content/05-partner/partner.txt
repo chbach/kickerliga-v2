@@ -6,15 +6,10 @@ Text: Sponsoren und Partner sind wichtige Unterstützer der Kickerliga, ohne die
 
 ----
 
-Sponsors: - name: Slider Boardshop
-  image: slider.png
-  url: http://www.slider-theboardshop.de/
-  type: Namenssponsor
-
-- name: MLP
+Sponsors: - name: MLP
   image: mlp.png
   url: http://www.mlp-paderborn1.de/kooperationen/kickerliga.cfm
-  type: Hauptsponsoren
+  type: Namenssponsor
 
 - name: PaderCopy
   image: padercopy.png
@@ -26,6 +21,16 @@ Sponsors: - name: Slider Boardshop
   image: therme.png
   url: http://www.westfalen-therme.de/
   type: Hauptsponsoren
+
+- name: effect
+  image: effect.png
+  url: http://www.effect-energy.com/
+  type: Hauptsponsoren
+
+- name: Cineplex
+  image: cineplex.png
+  url: http://www.cineplex.de/paderborn/
+  type: Fördersponsoren
 
 - name: Meyerbeer Coffee
   image: meyerbeer.png
@@ -47,17 +52,6 @@ Sponsors: - name: Slider Boardshop
   url: http://www.artusa.de/
   type: Fördersponsoren
 
-- name: RedBull
-  image: red-bull.png
-  url: http://www.redbull.de/
-  type: Fördersponsoren
-
-
-- name: Sketch
-  image: sketch.png
-  url: http://www.sketch-cocktailbar.de/
-  type: Locationsponsoren
-
 - name: The Mad Hatter
   image: madhatter.png
   url: https://www.facebook.com/madhatterpb
@@ -68,7 +62,12 @@ Sponsors: - name: Slider Boardshop
   url: http://www.patricias-pinte.de/
   type: Locationsponsoren
 
-- name: Gownsmen’s Pub
+- name: Penthouse
+  image: penthouse.jpg
+  url: https://www.facebook.com/penthouse.paderborn
+  type: Locationsponsoren
+
+- name: Grill | Café
   image: pub.png
   url: http://www.studentenwerk-pb.de/
   type: Locationsponsoren

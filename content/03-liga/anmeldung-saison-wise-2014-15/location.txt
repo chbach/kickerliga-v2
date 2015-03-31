@@ -1,0 +1,37 @@
+﻿Title: Anmeldung Saison WiSe 2014/15
+
+----
+
+Time: 21.10.2014
+
+----
+
+Location: Patrizias Pinte, The Mad Hatter
+
+----
+
+Teaser: # Kickerliga Saison WiSe 2014/15
+
+30 Teams, über 100 Spieler. Es geht in Runde 15!
+
+----
+
+Text: Noch ist Liga-Sommerpause und die 4. DYP-Tour wandert durch Paderborn, doch langsam formieren sich schon die ersten Teams für die 15. SLIDER-Kickerliga Saison...
+
+... und es erwartet Euch wieder Neues:
+
+- neues Shirt
+- eine neue Location
+- die erste 5-Tisch Location in der Kickergeschichte Paderborns
+- neue Gesichter
+- ...
+
+(button: Zur Anmeldung url: https://anmeldung.kickerliga-paderborn.de/events/54188c456163616e08000000 class: pure-button-primary) (button: Facebook-Event url: https://www.facebook.com/events/333026900212770/)
+
+----
+
+Sidebar: 
+
+----
+
+Latlng: 51.71892,8.75751

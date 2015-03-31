@@ -1,8 +1,8 @@
-﻿Title: Die 3. Paderborner DYP-Tour
+﻿Title: Sommer-DYP-Tour Paderborn 2014
 
 ----
 
-Time: Februar, März 2014
+Time: August, September 2014
 
 ----
 
@@ -10,7 +10,7 @@ Location: Paderborner Kneipenszene
 
 ----
 
-Teaser: # 3. Paderborner DYP-Tour
+Teaser: Sommer-DYP-Tour Paderborn 2014
 
 It’s time to **draw your partner**!
 
@@ -18,38 +18,42 @@ It’s time to **draw your partner**!
 
 Text: Hallo an alle Kickerfreunde!
 
-Für alle, denen die Ligapause doch ein wenig lang ist und auch für die, die einfach mal bei uns reinschnuppern wollen besteht nun wieder die Möglichkeit, sich **jede Woche in wechselnden Teams** in kleinen Spaßturnieren zu messen. 
+Für alle, denen die Ligapause doch ein wenig lang ist und auch für die, die einfach mal bei uns reinschnuppern wollen besteht nun wieder die Möglichkeit, sich alle zwei Wochen in wechselnden Teams bei den DYP-Turnieren zu messen.
+Am Mittwoch den 13.8. starten wir im Mad Hatter in eine neue Runde spannender und hoffentlich auch unterhaltsamer Kickerturniere und es winkt ein dicker Hauptpreis (siehe "Weiteres" unten)!
 
-Am Dienstag den 11.2. starten wir in Patrizias Pinte in eine neue Runde spannender und hoffentlich auch unterhaltsamer Kickerturniere.
+Es wird diesmal **6 Turniere** geben und es ist jedem überlassen, wie viele Turniere er spielen möchte. Für die eifrigen wird es jedoch wieder eine Tour-Gesamt-Rangliste geben, für die man durch die Platzierungen und auch die Teilnahmen Punkte sammeln kann. Der Punktbeste gewinnt am Ende die Tour (genaue Punkteverteilung siehe Regelwerk + bei Turnieren mit über 32 Spielern (Mad Hatter) kommen 32 Spieler in die KO-Runde und es gibt noch einen Punkt mehr für die Sieger (6) )!
 
-Es wird diesmal **mind. 9 Turniere** geben; die genauen Daten und Spielorte werden hier demnächst bekannt gegeben. Es ist jedem überlassen, wie viele Turniere er spielen möchte. Für die eifrigen wird es jedoch wieder eine **Tour-Gesamtrangliste** geben für die man durch die Platzierungen und auch die Teilnahmen Punkte sammeln kann. Der Punktbeste gewinnt am Ende die Tour inklusive Andenken für den Kamin (genaue Punkteverteilung siehe Regelwerk)!
+(button: Facebook-Grupppe url: https://www.facebook.com/groups/304751846294193/)
 
-Jedes Turnier wird bis max. 23 Uhr im Multi-DYP-Modus gespielt - danach KO Runden mit festem Partner.
-
-(button:Zur Gruppe class:pure-button-primary url:https://www.facebook.com/groups/304751846294193/) (button:Zum Event url:https://www.facebook.com/events/595284700548304/)
+Jedes Turnier wird bis max. 23 Uhr im Multi-DYP-Modus gespielt - danach K.O.-Runden mit festem Partner.
 
 **Weiteres:**
 
-- Die besten 6 Ergebnisse p.P. fließen in die Gesamt-Wertung ein
+- Als Hauptpreis winken **2 CL-Tickets** für wahlweise Dortmund oder Schalke!
+- Die besten 4 Ergebnisse p.P. fließen in die Gesamt-Wertung ein
 - Draw Your Partner - jede Runde neue Teams
-- begrenzte Teilnehmerzahl 
+- begrenzte Teilnehmerzahl
 - Meldebeginn immer pünktlich um 19:00 Uhr (bzw. 20 Uhr im Sappho) -first-come, first-served
 - Keine Anmeldung über Dritte
-- Turnierstart 19:15 
+- Turnierstart 19:15 (Sappho 20:15)
 - bis 22:00 kann noch reingerückt werden, wenn noch Platz ist - für die KO-Runde müssen allerdings 3 Vorrunden mitgespielt worden sein
 - Die jeweiligen Abendsieger bekommen ebenfalls Preise
 
 ### Terminübersicht:
 
-1. Dienstag 11.02. - 19:00 Uhr – Patrizias Pinte (28)
-2. Mittwoch 19.02. - 19:00 Uhr - Mad Hatter (28)
-3. Montag 24.02. - 19:00 Uhr - **VERLEGT IN DEN MAD HATTER** (28)
-4. Donnerstag 06.03. - 19:00 Uhr - Ölberg (14)
-5. Donnerstag 13.03. - 20:00 Uhr - Sappho (28)
-6. Dienstag 18.03. - 19:00 Uhr - Sketch (28)
-7. Mittwoch 26.03. - 19:00 Uhr - Mad Hatter (28)
-8. Donnerstag 03.04. - 19:00 Uhr - Ölberg (14)
-9. Montag 07.04. - 19:00 Uhr - **VERLEGT IN DEN MAD HATTER** (28)
-10. Dienstag 15.04 - 19:00 Uhr - Ende der Tour, Patrizias Pinte (28) **FINALE**
+1. Mittwoch 13.8.2014 - 19:00 Uhr - Mad Hatter (48)
+2. Dienstag 19.8.2014 - 19:00 Uhr - Patrizias Pinte (32)
+3. Mittwoch 3.9.2014 - 19:00 Uhr - Mad Hatter (48)
+4. Dienstag 16.9.2014 19:00 Uhr - Patrizias Pinte (32)
+5. Donnerstag 25.9.2014 - 20:00 Uhr - Sappho (32)
+6. (FINALE) - Freitag 10.10.2014 - 19:00 Uhr - Mad Hatter (48+)
 
-Jeder, der Lust und Zeit hat ist herzlichst willkommen.
+Jeder der Lust und Zeit hat ist herzlichst willkommen!
+
+----
+
+Sidebar: 
+
+----
+
+Latlng: 

@@ -1,0 +1,32 @@
+﻿Title: Wintersemester 2014/15
+
+----
+
+Events: - winner: Hanna Niemeyer/Fabian Gisder
+  name: Eröffnungsturnier
+  images: eroeffnung
+  captions:
+    01_profis.jpg: 1. Platz Profi-Doppel
+    02_amateur.jpg: 1. Platz Amateur-Doppel
+    03_neuling.jpg: 1. Platz Neulings-Doppel
+
+- winner: Unituy
+  name: Liga Pokal
+  images: pokal
+  captions:
+    pokal.jpg: Gewinner des Liga Pokals
+    pokal_zweite.jpg: Zweiter Platz
+
+- winner: Die Peng-Gurus
+  name: Liga
+  images: liga
+  captions:
+    peng.jpg: Gewinner der Liga-Finals
+    result.jpg: Übersicht der Platzierten
+
+
+- winner: Jetzt erst Recht!
+  name: Liga Cup
+  images: cup
+  captions:
+    ligacup.jpg: Gewinner des Liga Cups

@@ -1,0 +1,29 @@
+Title: Sommersemester 2014
+----
+Events:
+
+- winner: Mike Werner/Oliver Gonsch
+  name: Eröffnungsturnier
+  images: eroeffnung
+  captions:
+    01-sieger-profi.jpg: 1. Platz Profi-Doppel
+    02-amateur.jpg: 1. Platz Amateur-Doppel
+    03-neuling.jpg: 1. Platz Neulings-Doppel
+
+- winner: Soester Jungens
+  name: Liga Pokal
+  images: pokal
+  captions:
+    01-soest.jpg: Gewinner des Liga Pokals
+
+- winner: So nicht!
+  name: Liga Cup
+  images: cup
+  captions:
+    01-sonicht.jpg: Gewinner des Liga Cups
+
+- winner: Die 3 Foosgetiere
+  name: Liga
+  images: liga
+  captions:
+    foos.jpg: Gewinner der Liga-Finals
