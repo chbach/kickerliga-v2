@@ -70,7 +70,7 @@
 		?>
 			<li class="sponsors__item">
 				<a href="<?php echo $sponsor['url']; ?>" target="_blank">
-				<?php echo thumb($img, array('height' => 64)); ?>
+				<?php echo thumb($img, array('height' => 96, "width" => 172)); ?>
 				</a>
 			</li>
 		<?php 
