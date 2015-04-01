@@ -27,6 +27,11 @@ Sponsors: - name: MLP
   url: http://www.effect-energy.com/
   type: Hauptsponsoren
 
+- name: Slider Boardshop
+  image: slider.png
+  url: http://www.slider-theboardshop.de/
+  type: Fördersponsoren
+
 - name: Cineplex
   image: cineplex.png
   url: http://www.cineplex.de/paderborn/
@@ -57,14 +62,9 @@ Sponsors: - name: MLP
   url: https://www.facebook.com/madhatterpb
   type: Locationsponsoren
 
-- name: Patrizias Pinte
-  image: pinte.png
-  url: http://www.patricias-pinte.de/
-  type: Locationsponsoren
-
-- name: Penthouse
-  image: penthouse.jpg
-  url: https://www.facebook.com/penthouse.paderborn
+- name: Boot - music club
+  image: boot.png
+  url: https://www.facebook.com/boot.paderborn
   type: Locationsponsoren
 
 - name: Grill | Café
