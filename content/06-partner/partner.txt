@@ -1,0 +1,67 @@
+﻿Title: Partner
+
+----
+
+Text: Sponsoren und Partner sind wichtige Unterstützer der Kickerliga, ohne die es nicht möglich wäre, die Liga am Laufen zu halten und Turniere zu organisieren. Wir sagen hiermit herzlichen Dank!
+
+----
+
+Sponsors: - name: Wabsolute
+  image: wabsolute_logo.png
+  url: https://www.wabsolute.de/
+  type: Hauptsponsoren
+
+- name: PaderCopy
+  image: padercopy.png
+  url: http://www.padercopy.de/
+  type: Hauptsponsoren
+
+- name: Meyerbeer Coffee
+  image: meyerbeer.png
+  url: https://www.facebook.com/pages/Meyerbeer-Coffee/137381159615799
+  type: Hauptsponsoren
+
+- name: Westfalen-Therme
+  image: therme.png
+  url: http://www.westfalen-therme.de/
+  type: Hauptsponsoren
+
+- name: Pollux by Cineplex
+  image: pollux.png
+  url: http://www.pollux-kino.de
+  type: Hauptsponsoren
+
+- name: Bären-Treff
+  image: baeren.png
+  url: http://www.baeren-treff.de/
+  type: Fördersponsoren
+
+- name: effect
+  image: effect.png
+  url: http://www.effect-energy.com/
+  type: Fördersponsoren
+
+- name: tuba.
+  image: tuba.png
+  url: http://www.tuba-paderborn.de
+  type: Fördersponsoren
+
+- name: Eiscafé Artusa
+  image: artusa.png
+  url: http://www.artusa.de/
+  type: Fördersponsoren
+
+- name: Black Sheep
+  image: blacksheep.jpg
+  url: http://www.facebook.com/BlackSheepPaderborn/
+  type: Locationsponsoren
+
+- name: Die AKKA
+  image: akka.png
+  url: http://www.akka-paderborn.de/
+  type: Locationsponsoren
+
+- name: Grill | Café
+  image: pub.png
+  url: http://www.studentenwerk-pb.de/
+  type: Locationsponsoren

@@ -1,0 +1,17 @@
+﻿Title: Neue Saison WS 16/17
+
+----
+
+Date: 2016-09-01
+
+----
+
+Text: Aufgepasst liebe Leute!
+
+Die Anmeldung für die kommende Saison der MLP Kickerliga Paderborn läuft! Mit der WiSe 16/17 geht die Liga in ihre 19. Runde!
+
+Auch nicht vollständige Teams und Einzelpersonen können sich schon einen Platz sichern und später Mitglieder hinzufügen.
+
+Natürlich wird es auch wieder ein Eröffnungsturnier im Grill|Café der Uni geben! Am 28.10. rollt der Ball an 9 Leo-Tischen, sichert euch schnell einen Platz!
+
+(button: Liga WiSe 16/17 url:https://anmeldung.kickerliga-paderborn.de/events/57c870846163614168000000 class:pure-button-primary) (button: Eröffnungsturnier url:https://anmeldung.kickerliga-paderborn.de/events/57d000346163614168020000)

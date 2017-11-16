@@ -1,0 +1,29 @@
+Title: Wintersemester 2015/16
+----
+Events:
+
+- winner: Daniel Pöche/Mario Lachetta
+  name: Eröffnungsturnier
+  images: eroeffnung
+  captions:
+    01-sieger-profi.jpg: 1. Platz Profi-Doppel
+    02-amateur.jpg: 1. Platz Amateur-Doppel
+    03-neuling.jpg: 1. Platz Neulings-Doppel
+
+- winner: Soester Jungens
+  name: Liga Pokal
+  images: pokal
+  captions:
+    01-soesterjungens.jpg: Gewinner des Liga Pokals
+
+- winner: Kickeriki
+  name: Liga Cup
+  images: cup
+  captions:
+    01-kickeriki.jpg: Gewinner des Liga Cups
+
+- winner: Eintracht Prügel
+  name: Liga
+  images: liga
+  captions:
+    01-ep.jpg: Gewinner der Liga-Finals

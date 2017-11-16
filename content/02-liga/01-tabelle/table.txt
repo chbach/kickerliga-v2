@@ -1,0 +1,9 @@
+﻿Title: Tabelle Liga 1
+
+----
+
+Text: Die Tabelle der aktuellen Saison für Liga 1. Sortiert nach Punkten pro Spiel.
+
+----
+
+Seasonid: 59fa02829a281a57da0000ca

@@ -1,0 +1,34 @@
+Title: Sommersemester 2016
+----
+Events:
+
+- winner: Danny Ziegler/Yannic Hartmann
+  name: Eröffnungsturnier
+  images: eroeffnung
+  captions:
+    01-sieger-profi.jpg: 1. Platz Profi-Doppel Ziegler/Hartmann
+	02-zweiter-profi.jpg: 2. Platz Profi-Doppel Theussen/Ehren
+	03-dritter-profi.jpg: 3. Platz Profi-Doppel Höning/Silaff
+    04-sieger-amateur.jpg: 1. Platz Amateur-Doppel Klose/Kelbert
+	05-zweiter-amateur.jpg: 2. Platz Amateur-Doppel Greiner/Wagner
+	06-zweiter-amateur.jpg: 3. Platz Amatuer-Doppel Bauch/Grobbel
+    07-sieger-neuling.jpg: 1. Platz Neulings-Doppel Scheipers/Leiverding
+	08-zweiter-neuling.jpg: 2. Platz Neulings-Doppel Machado de Lima/Witt
+	09-dritter-neuling.jpg: 3. Platz Neulings-Doppel Köllermeier/Sinatra
+	10-Ergebnis-Teil1.jpg: Ergebnisse Teil 1
+	11-Ergebnis-Teil2.jpg: Ergebnisse Teil 2
+
+- winner: 
+  name: Liga Pokal
+  images: pokal
+  captions:
+
+- winner:
+  name: Liga Cup
+  images: cup
+  captions:
+
+- winner:
+  name: Liga
+  images: liga
+  captions:

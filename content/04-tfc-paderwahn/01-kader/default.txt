@@ -1,0 +1,27 @@
+﻿Title: Kader
+
+----
+
+Text: ## 1. Mannschaft
+(link: http://dtfl.de/index.php/dtfl/2-bundesliga/tabelle2 text:  2. Bundesliga Tabelle)
+(link: http://dtfl.de/index.php/dtfl/2-bundesliga/mannschaften2?task=team_details&veranstaltungid=186&id=2490 text: Mannschaft)
+       
+## 2. Mannschaft
+(link: http://nwtfv.com/index.php/nrw-tischfussball-kicker-liga/nrw-tischfussball-landesliga text: Landesliga Tabelle)
+(link: http://nwtfv.com/index.php/sidebar-landesliga-mannschaften?task=team_details&veranstaltungid=102&id=1876 text: Mannschaft)
+
+## 3. Mannschaft
+(link: http://nwtfv.com/index.php/sidebar-verbandsliga-tabelle text: Verbandsliga B Tabelle)
+(link: http://nwtfv.com/index.php/sidebar-verbandsliga-mannschaften?task=team_details&veranstaltungid=110&id=1964 text: Mannschaft)
+
+## 4. Mannschaft
+(link: http://nwtfv.com/index.php/nrw-tischfussball-kicker-liga/kreisliga text: Kreisliga D Tabelle)
+(link: http://nwtfv.com/index.php/nrw-tischfussball-kicker-liga/kreisliga?task=team_details&id=1987 text: Mannschaft)
+
+## 5. Mannschaft
+(link: http://nwtfv.com/index.php/nrw-tischfussball-kicker-liga/kreisliga text: Kreisliga D Tabelle)
+(link: http://nwtfv.com/index.php/nrw-tischfussball-kicker-liga/kreisliga?task=team_details&id=1988 text: Mannschaft)
+
+## 6. Mannschaft
+(link: http://nwtfv.com/index.php/nrw-tischfussball-kicker-liga/kreisliga text: Kreisliga D Tabelle)
+(link: http://nwtfv.com/index.php/nrw-tischfussball-kicker-liga/kreisliga?task=team_details&id=1989 text: Mannschaft)

@@ -1,0 +1,9 @@
+﻿Title: Spielplan Liga 1
+
+----
+
+Text: Bitte auf einen Spieltag klicken zum Aufklappen.
+
+----
+
+Seasonid: 59fa02829a281a57da0000ca

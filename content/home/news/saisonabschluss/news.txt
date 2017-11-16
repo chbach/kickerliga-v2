@@ -1,0 +1,10 @@
+﻿Title: Saisonabschluss
+
+----
+
+Date: 2016-07-19
+
+----
+
+Text: Mit weit über 200 Teilnehmern bescherrte die vierte und bisher größte Paderborner Stadtmeisterschaft der Saison SoSe 2016 einen fulminanten Abschluss! Bei besten Wetter und gewohnt gutem Essen fanden sich Spieler aus der ganzen Republik im MultiCult ein. Abgerundet wurde der Tag mit einem entspannten und spassigen Abschlussdyp in unserer Heimlocation, dem MadHatter. Fotos von beiden Events und allen Siegern findet ihr wie immer auf Facebook.
+(button: Ergebnisse DTFB url:http://dtfb.de/index.php/turnierergebnisse?task=turnierdisziplinen&turnierid=685 class:pure-button-primary) (button: Ergebnisse TiFu url:http://tifu.info/turnier.php?turnierid=15713&ver=1 class:pure-button-primary)

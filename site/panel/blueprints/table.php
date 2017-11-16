@@ -13,3 +13,6 @@ fields:
     label: Text
     type:  textarea
     size:  large
+  seasonid:
+    label: Season-ID
+    type:  text

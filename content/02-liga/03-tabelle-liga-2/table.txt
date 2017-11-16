@@ -1,0 +1,9 @@
+﻿Title: Tabelle Liga 2
+
+----
+
+Text: Die Tabelle der aktuellen Saison für Liga 2. Sortiert nach Punkten pro Spiel.
+
+----
+
+Seasonid: 59fa015c9a281a57da0000a9

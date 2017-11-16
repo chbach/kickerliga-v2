@@ -1,5 +1,0 @@
-﻿Title: Spielplan
-
-----
-
-Text: Bitte auf einen Spieltag klicken zum Aufklappen.

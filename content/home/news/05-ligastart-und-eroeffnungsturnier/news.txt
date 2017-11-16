@@ -1,0 +1,13 @@
+﻿Title: Ligastart und Eröffnungsturnier
+
+----
+
+Date: 2017-10-21
+
+----
+
+Text: Wieder mal ein gelungenes Eröffnungsturnier haben wir bereits hinter uns, und in Kürze startet auch die neue Saison! Zum ersten mal im Zwei-Ligen System, man darf gespannt sein :)
+Noch kann man sich für die Liga anmelden, aber Eile ist geboten ;)
+(button: Liga WiSe 17/18 url: https://anmeldung.kickerliga-paderborn.de/events/59cd64539a281a5f8900019b class:pure-button-primary)
+(button: Ergebnisse Eröffnungsturnier url: http://www.nwtfv.com/index.php/turniere/turniere-turnierergebnisse?task=turnierdisziplin&id=1267)
+(button: Fotos url: https://www.facebook.com/166720443355216/photos/?tab=album&album_id=1876118325748744 class:pure-button-primary) (button: Platzierungen url: https://www.facebook.com/166720443355216/photos/?tab=album&album_id=1876135585747018)

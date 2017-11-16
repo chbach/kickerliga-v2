@@ -1,0 +1,14 @@
+﻿Title: Sommerfest 2016
+
+----
+
+Date: 2016-05-11
+
+----
+
+Text: Zückt eure Sonnenbrillen und Kickerskills!
+
+Wir feiern den Sommer beim Kickerliga-Sommerfest im Mad Hatter mit leckerem Essen im Biergarten, kalten Getränken, Kickern und dem EM-Eröffnungsspiel!
+
+Alle weiteren Infos auf der Anmeldungsseite:
+(button: Sommerfest url:https://anmeldung.kickerliga-paderborn.de/events/5732f5a66163612930e60000 class:pure-button-primary)

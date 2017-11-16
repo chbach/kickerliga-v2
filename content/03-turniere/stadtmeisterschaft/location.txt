@@ -1,0 +1,63 @@
+﻿Title: Stadtmeisterschaft
+
+----
+
+Time: Samstag/Sonntag, 15.-16. Juli 2017
+
+----
+
+Location: MultiCult am Haxthausenhof 18
+
+----
+
+Teaser: # 5. Paderborner Tischfussball Stadtmeisterschaft
+
+**Wir gehen in Runde 5!**
+
+----
+
+Text: Die 5. Paderborner Stadtmeisterschaft findet erstmalig als zweitägiges Turnier statt. Am Samstag Doppel (wie die Jahre zuvor) und am Sonntag Einzel!
+
+Die Teilnehmerzahl ist jeweils begrenzt auf 100 Teams / 100 Einzelspieler. 
+Anmeldung unter <info@kickerliga-paderborn.de>
+Rückmeldung am Turniertag:
+Doppel (Sa) Anmeldestart: 10:30 und Turnierstart um 11:30 Uhr
+Einzel (So) Anmeldestart: 10:00 und Turnierstart um 11:00 Uhr
+
+Einfach eine E-Mail mit den beiden Spielernamen, den Spielernummern (falls vorhanden) und der Kategorie, die ihr spielen wollt (OD, DD, JD, SD / OE, DE, JE, SE) an uns senden.
+
+## Aftershow-Party-DYP im Highlander
+
+* Startgeld: € 1,- für Turnierteilnehmer, € 3,- für den Rest
+* Einstieg bis 23:00 möglich
+
+## Turnierinfos
+
+**Teilnahmegebühr**
+
+* 15€ pro Person (Junioren 10€)
+* 10€ Rabatt für DTFB Mitglieder
+
+**Spielmodus**
+
+Gespielt wird nach ITSF Regeln
+Vorrunde: gemischt, 2 Gewinnsätze bis 5 Tore, in jedem Satz mit Verlängerung bei 4:4 bis 6 Tore
+Hauptrunde ab 18 Uhr: Einfach-KO in drei Gruppen (24/24/24), Damen Top16, Senioren und Junioren jeweils Top8
+Pro: 3 Gewinnsätze | B/C-Feld: 2 Gewinnsätze, jeweils bis 5 mit Verlängerung bei 4:4 bis 6 Tore
+
+**Viele Specials**
+-> Wir werden wieder frisch bekocht von unserem Sterne-Koch Niko!
+-> Es gibt dank meinkicker.com die optimale Beleuchtung für alle 20 Tische!
+-> Effect sponsort n ordentlichen Batzen Energy!
+-> Wir veranstalten wieder ein großes Aftershow-Party-DYP mit 4 Tischen und Karaoke in unserer Heimlocation Highlander Paderborn!
+
+----
+
+Sidebar: (image: nwtfv.png alt:nwtfv)
+(button: Facebook url: https://www.facebook.com/events/146453249180503/)
+(button: Ausschreibung OD url: http://dtfb.de/index.php/termine?task=anhang_termin&bezug_id=2602 class:pure-button-primary)
+(button: Ausschreibung OE url: http://dtfb.de/index.php/termine?task=anhang_termin&bezug_id=2603 class:pure-button-primary)
+
+----
+
+Latlng: 51.721809, 8.752033

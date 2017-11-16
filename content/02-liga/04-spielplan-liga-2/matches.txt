@@ -1,0 +1,9 @@
+﻿Title: Spielplan Liga 2
+
+----
+
+Text: Bitte auf einen Spieltag klicken zum Aufklappen.
+
+----
+
+Seasonid: 59fa015c9a281a57da0000a9

@@ -1,0 +1,29 @@
+Title: Sommersemester 2015
+----
+Events:
+
+- winner: Andreas Höhne/Robert Pilchowski
+  name: Eröffnungsturnier
+  images: eroeffnung
+  captions:
+    01-sieger-profi.jpg: 1. Platz Profi-Doppel
+    02-amateur.jpg: 1. Platz Amateur-Doppel
+    03-neuling.jpg: 1. Platz Neulings-Doppel
+
+- winner: Die Peng Gurus
+  name: Liga Pokal
+  images: pokal
+  captions:
+    01-penggurus.jpg: Gewinner des Liga Pokals
+
+- winner: Unexpected Ursula
+  name: Liga Cup
+  images: cup
+  captions:
+    01-unexpectedursula.jpg: Gewinner des Liga Cups
+
+- winner: The Unity
+  name: Liga
+  images: liga
+  captions:
+    01-unity.jpg: Gewinner der Liga-Finals

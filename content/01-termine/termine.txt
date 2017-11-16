@@ -1,0 +1,138 @@
+﻿Title: Termine
+
+----
+
+Text: **Wöchentliche Termine**
+
+**MO, ab 19:00 Uhr
+FOOSMONDAY** im Black Sheep
+
+**DO, 19:00-21:00 Uhr
+Hochschulsport (HSP)** (Basiskurs & Fortgeschrittenenkurs) im Black Sheep
+
+**DO, ab 20:30 Uhr
+Tournament Thursday** im Black Sheep [DYP nach dem HSP]
+
+Um immer "up to date" zu sein geht in die FB-Gruppe 
+(link: https://www.facebook.com/groups/188185721225049/ text: "Kickern in Paderborn")!
+
+**Jeden zweiten Mittwoch im Monat** wird im Black Sheep auch ein **Einzel-Turnier** veranstaltet! **19:30 Beginn**, späterer Einstieg NICHT möglich.
+
+Unsere 5 TFC Paderwahn-Mannschaften trainieren natürlich auch immer fleißig:
+Wer Interesse hat, uns über die Schulter zu schauen oder selbst vllt in Zukunft einzusteigen, kann gern **Mittwochs von 19-22 Uhr** oder **Samstags 18-21 Uhr** im Black Sheep vorbeischauen. Ihr seid herzlich willkommen!
+
+Weitere Termine auch unter (link: http://www.nwtfv.com/index.php/termine text: nwtfv.com) und (link: http://dtfb.de/index.php/termine text: dtfb.de)
+
+----
+
+Events: 06.11.2017:
+  title: 1. Spieltag
+  location: Black Sheep
+  desc: 19:00 Uhr
+
+07.11.2017:
+  title: 1. Spieltag
+  location: Black Sheep / AKKA
+  desc: 19:00 Uhr
+
+08.11.2017:
+  title: Mtl. Einzelturnier (Mini-Challenger)
+  location: Black Sheep
+  desc: 19:30 Uhr
+
+
+13.11.2017:
+  title: 2. Spieltag
+  location: Black Sheep
+  desc: 19:00 Uhr
+
+14.11.2017:
+  title: 2. Spieltag
+  location: Black Sheep / AKKA
+  desc: 19:00 Uhr
+
+
+27.11.2017:
+  title: 3. Spieltag
+  location: Black Sheep
+  desc: 19:00 Uhr
+
+28.11.2017:
+  title: 3. Spieltag
+  location: Black Sheep / AKKA
+  desc: 19:00 Uhr
+
+21.11.2017:
+  title: Pokal 1/16-Finale
+  location: Black Sheep / AKKA
+  desc: 19:00 Uhr
+
+04.12.2017:
+  title: 4. Spieltag
+  location: Black Sheep 
+  desc: 19:00 Uhr
+
+05.12.2017:
+  title: 4. Spieltag
+  location: Black Sheep / AKKA
+  desc: 19:00 Uhr
+
+08.12.2017:
+  title: Weihnachtsfeier
+  location: AStA Stadtcampus
+  desc: 18:00 Uhr
+
+12.12.2017:
+  title: Pokal 1/8-Finale
+  location: Black Sheep / AKKA
+  desc: 19:00 Uhr
+
+13.12.2017:
+  title: Mtl. Einzelturnier (Mini-Challenger)
+  location: Black Sheep
+  desc: 19:30 Uhr
+
+18.12.2017:
+  title: 5. Spieltag
+  location: Black Sheep
+  desc: 19:00 Uhr
+
+19.12.2017:
+  title: 5. Spieltag
+  location: Black Sheep / AKKA
+  desc: 19:00 Uhr
+
+08.01.2018:
+  title: 6. Spieltag
+  location: Black Sheep
+  desc: 19:00 Uhr
+
+09.01.2018:
+  title: 6. Spieltag
+  location: Black Sheep / AKKA
+  desc: 19:00 Uhr
+
+10.01.2018:
+  title: Mtl. Einzelturnier (Mini-Challenger)
+  location: Black Sheep
+  desc: 19:30 Uhr
+
+15.01.2018:
+  title: Pokal restl. Finalspiele
+  location: Black Sheep
+  desc: 19:00 Uhr
+
+16.01.2018:
+  title: LigaCUP (2. Liga)
+  location: Black Sheep / AKKA
+  desc: 19:00 Uhr
+
+19.01.2018:
+  title: Finals (1. Liga)
+  location: Black Sheep
+  desc: 19:00 Uhr
+
+26.01.2018:
+  title: Masters (Mini-Challenger)
+  location: Grill|Café (Uni-PB)
+  desc: 18:00 Uhr

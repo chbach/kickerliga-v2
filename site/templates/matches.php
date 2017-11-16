@@ -1,11 +1,10 @@
 <?php snippet('header') ?>
 
 <?php
-	$season = new KLSeason();
-	$matches = $season->getMatches();
+	$season = new KLSeason($page->seasonid);
+	$matchdays = $season->getMatches();
 	$odd_or_even = "odd";
-	$day = ""; 
-	$location = "";
+	$number = 0;
 ?>
 
 <section class="landing-section" role="main">
@@ -18,16 +17,23 @@
 			    <?php echo kirbytext($page->text()); ?>
 			</article>
 
-			<?php foreach ($matches as $index => $match ): ?>
+			<?php foreach ($matchdays as $index => $matchday ): ?>
 			<?php
 				$odd_or_even = ('odd' == $odd_or_even) ? 'even' : 'odd';
 			?>
 
-			<?php if ($day != $match->day):	$day = $match->day; $location = ""; ?>
-			<?php if ($day > 1): ?> </tbody></table></div><?php endif; ?>
+			<?php if ($number != $matchday->number): ?>
 
+			<?php if ($number != 0): ?>
+					</tbody>
+				</table>
+			</div>
+			<?php endif; ?>
+
+
+			<?php $number = $matchday->number; ?>
 			<div class="spieltag">
-				<h3 class="toggle"><?php echo $day ?>. Spieltag</h3>
+				<h3 class="toggle"><?php echo $matchday->number ?>. Spieltag</h3>
 				<table class="pure-table pure-table-striped" style="display: none">
 					<thead>
 					<tr>
@@ -38,24 +44,24 @@
 					</thead>
 					<tbody>
 			<?php endif; ?>
-					<?php if ($location != $match->location):
-						$location = $match->location;
-						$odd_or_even = 'even'; ?>
-					<tr class="subhead"><td colspan="3">
-						<?php echo $location; ?>
-						<small><?php echo date("d.m.Y H:i", strtotime($match->date)); ?></small>
-					</td></tr>
-					<?php endif; ?>
+					<tr class="subhead">
+						<td colspan="3">
+							<?php echo $matchday->location; ?>
+							<small><?php echo date_format(new DateTime($matchday->date, new DateTimeZone('Europe/Berlin')), "d.m.Y H:i"); ?></small>
+						</td>
+					</tr>
+					<?php foreach($matchday->matches as $match): ?>
 					<tr class="<?php echo $odd_or_even ?>">
-						<td><?php echo $match->team1; ?></td>
-						<td><?php echo $match->team2; ?></td>
+						<td><?php echo $match->team_1; ?></td>
+						<td><?php echo $match->team_2; ?></td>
 						<td><?php echo $match->sets; ?></td>
 					</tr>
+					<?php endforeach; ?>
+
 			<?php endforeach; ?>
-				</tbody>
+					</tbody>
 				</table>
 			</div>
-
 		</div>
 		<div class="pure-u-1-3 l-box">
 			<aside>

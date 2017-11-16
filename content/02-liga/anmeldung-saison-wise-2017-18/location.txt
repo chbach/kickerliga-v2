@@ -1,0 +1,35 @@
+﻿Title: Anmeldung Saison WiSe 2017/18
+
+----
+
+Time: 24.10.2017
+
+----
+
+Location: Highlander / AKKA
+
+----
+
+Teaser: # Kickerliga Saison WiSe 2017/18
+
+30 Teams, über 100 Spieler. Es geht in Runde 21!
+
+----
+
+Text: Oft wurde drüber gesprochen - jetzt wird's umgesetzt!
+Nach 10 Jahren Stadtliga wird eine neue Ära eingeläutet - ab kommender Saison geht die Kickerliga Paderborn mit einer brisanten Neuerung an den Start: Liga 2 kommt!
+
+Gerade für neue Teams und Neueinsteiger wird die Stadtliga somit nochmal deutlich attraktiver, aber auch die ambitionierten Teams kommen etwas mehr auf ihre Kosten.
+
+Die wichtigsten Termine stehen nun fest und sind unter entsprechender Rubrik zu finden! Auch die Anmeldungen für Liga und Eröffnungsturnier sind jetzt freigeschaltet!
+
+(button: Liga WiSe 17/18 url: https://anmeldung.kickerliga-paderborn.de/events/59cd64539a281a5f8900019b)
+(button: Eröffnungsturnier url: https://anmeldung.kickerliga-paderborn.de/events/59cd67019a281a5f8900019c class:pure-button-primary)
+
+----
+
+Sidebar: 
+
+----
+
+Latlng: 51.722098, 8.756989

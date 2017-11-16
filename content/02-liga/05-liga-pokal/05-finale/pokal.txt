@@ -1,0 +1,17 @@
+﻿Title: Finale
+
+----
+
+Text: Hier die Final-Ergebnisse und dem Spiel um Platz 3 vom 27.06.2017 im Highlander
+
+----
+
+Matches: - Location: Finale (Leo oben)
+  Team1: Rage against the Kickermachine
+  Team2: Shiba-Bande
+  Ergebnis: 1:6
+
+- Location: Spiel um Platz 3 (Leo unten)
+  Team1: Kapitän Rotbart und seine flinken Finger!
+  Team2: Is mir egaaal, egaaal
+  Ergebnis: 6:4

@@ -1,0 +1,9 @@
+﻿Title: Liga Pokal
+
+----
+
+Text: Der Liga-Pokal läuft parallel zur Liga und bietet den Teams, die sich nicht über die Top 10 der Liga oder den Gewinn des Liga-Cups qualifizieren, das Schlupfloch noch in die Finals vorzustoßen und um die Meisterschaft mitspielen zu können. Gespielt wird im KO-System, das heißt ein Team scheidet bei einer Niederlage aus.
+
+Der Spielmodus im Pokal ist etwas anders als in der Liga. Es werden drei Doppel und zwei Einzel gespielt. Es werden zwei Sätze (GENAU zwei, keine zwei Gewinnsätze) pro Partie gespielt. Sollte es am Ende unentschieden in Sätzen stehen, folgt ein Elfmeterschießen (nähere Infos dazu findet ihr auf den in der Location hinterlegten Scorekarten).
+
+Die Paarungen mit den Spielorten sind unten ersichtlich.

@@ -1,0 +1,10 @@
+﻿Title: Masters
+
+----
+
+Date: 2016-12-19
+
+----
+
+Text: Das große Abschlussturnier, das Masters, war wieder einmal ein voller Erfolg! 75 Teams traten in gewohnt launiger Atmosphäre gegeneinander an. Alle Ergebnisse findet ihr auf der Seite vom NWTFV und Fotos der Sieger gibt es wie immer auf Facebook.
+(button: Ergebnisse url: http://nwtfv.com/index.php/turniere/turniere-turnierergebnisse?task=turnierdisziplin&id=1021 class:pure-button-primary)  (button: Siegerfotos url: https://www.facebook.com/Kickerliga.Paderborn.official/photos/?tab=album&album_id=1578540085506571)

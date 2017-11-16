@@ -1,0 +1,9 @@
+﻿Title: Kontakt
+
+----
+
+Text: Du möchtest dich mit uns in Verbindung setzen? Dafür hast du verschiedene Möglichkeiten:
+
+ - Schau einfach an einem der (link: termine text: Termine) vorbei und sprich uns direkt persönlich an!
+ - Für schnellen und unkomplizierten Kontakt, schreibe uns bei Facebook an: (button:Facebook-Seite class:pure-button-primary url:https://www.facebook.com/Kickerliga.Paderborn.official) (button: Kickern in Paderborn Gruppe url:https://www.facebook.com/groups/188185721225049/)
+ - Schreibe uns eine Mail: <info@kickerliga-paderborn.de>

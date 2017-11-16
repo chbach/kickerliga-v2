@@ -1,3 +1,0 @@
-Title: Tabelle
-----
-Text: Die aktuelle Tabelle der laufenden Saison. Sortiert nach Siegen pro Spiel.

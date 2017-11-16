@@ -1,0 +1,13 @@
+﻿Title: Runde 20 ist angelaufen!
+
+----
+
+Date: 2017-05-04
+
+----
+
+Text: Mit der aktuellen Saison machen wir die 20 voll! Das bedeutet 10 Jahre Kickerliga Paderborn! Wahnsinn :)
+Ein tolles Eröffnungsturnier liegt bereits hinter uns. Vor uns liegen noch einige spannende Spiele im Ligabetrieb, aber auch ein weiteres Highlight rückt langsam näher: Die Stadtmeisterschaften!
+Dieses Jahr gibt es neben dem samstäglichen Doppel (15.7.) auch ein Einzelturnier am Sonntag (16.7.). Beides kann unabhängig voneinander gespielt werden. Die Anmeldung ist bereits geöffnet, also sichert euch am besten gleich einen Startplatz!
+(button: Infos url: https://kickerliga-paderborn.de/turniere/stadtmeisterschaft) (button: Infos/Anmeldung DTFB url: http://dtfb.de/index.php/termine class:pure-button-primary)
+(button: Facebook url: http://www.facebook.com/events/146453249180503/permalink/215689692256858/) (button: Tifu url: http://tifu.info/turnier_voranmeldungen.php?turnierid=25606&ver=1 class:pure-button-primary)
